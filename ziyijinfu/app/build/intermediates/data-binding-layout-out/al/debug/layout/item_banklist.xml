@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/white"
+    android:id="@+id/rootView"
+    >
+
+    <ImageView
+        android:id="@+id/bank_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+         />
+    <ImageView
+        android:id="@+id/bank_hot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/ic_bank_hot" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_toRightOf="@id/bank_icon"
+        android:layout_toLeftOf="@id/bank_hot"
+        android:layout_centerVertical="true"
+        >
+        <TextView
+            android:id="@+id/bank_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:textColor="#333333"
+            android:textSize="14sp"
+            android:layout_toRightOf="@+id/bank_icon"
+            android:text="工商银行" />
+
+        <TextView
+            android:id="@+id/tv_bank_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="3dp"
+            android:textColor="#666666"
+            android:layout_below="@id/bank_name"
+            android:textSize="12sp"
+            android:layout_toRightOf="@+id/bank_icon"
+            android:text="单笔限额50万，单日限额200万" />
+    </LinearLayout>
+
+</RelativeLayout>

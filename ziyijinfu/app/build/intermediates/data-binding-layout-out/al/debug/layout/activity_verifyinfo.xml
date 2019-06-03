@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_theme"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:paddingBottom="25dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="25dp">
+
+            <TextView
+                android:id="@+id/tv_purchase_point"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerHorizontal="true"
+                android:background="@mipmap/ic_showstepview_point"
+                android:gravity="center"
+                android:text="2"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_purchase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_purchase_point"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="设置交易密码"
+                android:textColor="#333333"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_realname"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/tv_purchase"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="实名认证"
+                android:textColor="#333333"
+                android:textSize="12sp" />
+
+            <RelativeLayout
+                android:id="@+id/rl_realname_point"
+                android:layout_width="30dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/tv_realname"
+                android:layout_alignRight="@id/tv_realname">
+
+                <ImageView
+                    android:id="@+id/iv_point"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerInParent="true"
+                    android:src="@mipmap/ic_showstepview_point" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="1"
+                    android:textColor="@color/white"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/line1"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_alignBottom="@id/tv_purchase_point"
+                android:layout_alignTop="@id/tv_purchase_point"
+                android:layout_marginLeft="45dp"
+                android:layout_toLeftOf="@id/tv_purchase_point"
+                android:background="@mipmap/ic_showstepview_line" />
+
+            <LinearLayout
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:background="@color/white"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/ic_showstepview_point2"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@mipmap/ic_showstepview_point"
+                    android:gravity="center"
+                    android:text="3"
+                    android:textColor="@color/white"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/tv_step_risk"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:text="风险测评"
+                    android:textColor="#333333"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/line2"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_alignBottom="@id/tv_purchase_point"
+                android:layout_alignTop="@id/tv_purchase_point"
+                android:layout_marginRight="45dp"
+                android:layout_toRightOf="@id/tv_purchase_point"
+                android:background="@mipmap/ic_showstepview_line" />
+        </RelativeLayout>
+
+        <include layout="@layout/fragment_realname" />
+
+        <include layout="@layout/fragment_tenderpwdset" />
+
+        <include layout="@layout/fragment_risk" />
+    </LinearLayout>
+</ScrollView>

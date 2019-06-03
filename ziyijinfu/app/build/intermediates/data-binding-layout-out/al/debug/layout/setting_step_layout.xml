@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="25dp">
+
+    <TextView
+        android:id="@+id/set_invest_pwd"
+        style="@style/SettingStepBottomText"
+        android:layout_marginBottom="25dp"
+        android:text="设置交易密码"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <TextView
+        android:id="@+id/real_name"
+        style="@style/SettingStepBottomText"
+        android:layout_marginLeft="15dp"
+        android:text="实名认证"
+        app:layout_constraintBottom_toBottomOf="@+id/set_invest_pwd"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/risk_evaluation"
+        style="@style/SettingStepBottomText"
+        android:layout_marginRight="15dp"
+        android:text="风险测评"
+        app:layout_constraintBottom_toBottomOf="@+id/set_invest_pwd"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/real_name_img"
+        style="@style/SettingStepCircleText"
+        android:text="1"
+        app:layout_constraintBottom_toTopOf="@id/real_name"
+        app:layout_constraintLeft_toLeftOf="@id/real_name"
+        app:layout_constraintRight_toRightOf="@id/real_name" />
+
+    <TextView
+        android:id="@+id/pwd_img"
+        style="@style/SettingStepCircleText"
+        android:text="2"
+        app:layout_constraintBottom_toTopOf="@id/set_invest_pwd"
+        app:layout_constraintLeft_toLeftOf="@id/set_invest_pwd"
+        app:layout_constraintRight_toRightOf="@id/set_invest_pwd" />
+
+    <TextView
+        android:id="@+id/risk_img"
+        style="@style/SettingStepCircleText"
+        android:text="3"
+        app:layout_constraintBottom_toTopOf="@id/risk_evaluation"
+        app:layout_constraintLeft_toLeftOf="@id/risk_evaluation"
+        app:layout_constraintRight_toRightOf="@id/risk_evaluation" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="@id/real_name_img"
+        app:layout_constraintLeft_toRightOf="@id/real_name_img"
+        app:layout_constraintRight_toLeftOf="@id/pwd_img"
+        app:layout_constraintTop_toTopOf="@id/real_name_img">
+
+        <View
+            style="@style/SettingStepRedLine"
+            android:layout_weight="1"></View>
+
+        <View
+            android:id="@+id/first_circle"
+            style="@style/SettingStepRedCircle"></View>
+
+        <View
+            android:id="@+id/first_gray_line"
+            style="@style/SettingStepGrayLine"
+            android:layout_weight="1"></View>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="@id/pwd_img"
+        app:layout_constraintLeft_toRightOf="@id/pwd_img"
+        app:layout_constraintRight_toLeftOf="@id/risk_img"
+        app:layout_constraintTop_toTopOf="@id/pwd_img">
+
+        <View
+            android:id="@+id/second_red_line"
+            style="@style/SettingStepRedLine"
+            android:layout_weight="1"></View>
+
+        <View
+            android:id="@+id/second_circle"
+            style="@style/SettingStepRedCircle"></View>
+
+        <View
+            android:id="@+id/second_gray_line"
+
+            style="@style/SettingStepGrayLine"
+            android:layout_weight="1"></View>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dialog_risk_evaluation_bg">
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="45dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="温馨提示"
+            android:textColor="#333"
+            android:textSize="16sp" />
+        <ImageView
+            android:id="@+id/dialog_close"
+            android:padding="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/detail_calcu_dialog_close" />
+    </RelativeLayout>
+    <View
+        android:background="#ccc"
+        android:layout_width="match_parent"
+        android:layout_height="1px"></View>
+    <TextView
+        android:id="@+id/content"
+        android:maxWidth="250dp"
+        android:layout_marginTop="23dp"
+        android:text="账户余额不足，请充值"
+        android:textSize="14sp"
+        android:textColor="#333"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/goto_charge"
+        android:textColor="@color/white"
+        android:layout_marginTop="25dp"
+        android:textSize="14sp"
+        android:text="立即充值"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/btn_click"
+        android:layout_width="250dp"
+        android:layout_height="36dp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="22dp"></View>
+
+</LinearLayout>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_theme"
+    >
+    <include layout="@layout/toolbar"/>
+
+    <ImageView
+        android:layout_width="145dp"
+        android:layout_height="145dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="49dp"
+        android:src="@drawable/ic_withdraw_result"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:text="提现申请已提交"
+        android:textSize="19sp"
+        android:textColor="#666666"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:background="@drawable/shadow_bg2"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/ll_withdraw_cash"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_cash_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="提现金额"
+            android:textColor="@color/color_333333"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/tv_cash"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:digits="0123456789"
+            android:gravity="right"
+            android:maxLength="10"
+            android:textColor="@color/text_Fc291d"
+            android:textSize="14sp"/>
+    </LinearLayout>
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/bg_line"
+        android:layout_marginLeft="15dp"
+        />
+    <LinearLayout
+        android:id="@+id/ll_card"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/white"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_card_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:text="到账银行卡"
+            android:textColor="@color/color_333333"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/tv_card"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:digits="0123456789"
+            android:gravity="right"
+            android:textColor="#333333"
+            android:textSize="13sp"/>
+    </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tv_warning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/color_999999"
+        android:textSize="11sp"/>
+    <Button
+        android:id="@+id/btn_commit"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="完成"
+        android:background="@drawable/btn_click_round_rect"
+        android:textColor="@color/white"/>
+</LinearLayout>

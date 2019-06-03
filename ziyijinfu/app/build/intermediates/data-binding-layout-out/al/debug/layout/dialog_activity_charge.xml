@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="290dp"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+            android:background="@drawable/dialog_risk_evaluation_bg"
+    >
+    <RelativeLayout
+        android:layout_width="290dp"
+        android:layout_height="45dp">
+        <TextView
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:text="安全验证"
+            android:textColor="#333"
+            android:layout_centerInParent="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/close"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:src="@drawable/detail_calcu_dialog_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <View
+            android:background="#ccc"
+            android:layout_alignParentBottom="true"
+            android:layout_width="match_parent"
+            android:layout_height="1px"></View>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/send_tips"
+        android:textColor="#333"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:layout_marginTop="15dp"
+        android:text=" "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/textInput"
+        android:textSize="13sp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:text=""
+        android:gravity="center"
+        android:maxLength="6"
+        android:textColor="#333"
+        android:digits="qwertyuioplkjhgfdsazxcvbnmQWERTYUIOPLKJHGFDSAZXCVBNM1234567890"
+        android:hint="请输入短信验证码"
+        android:background="@drawable/detail_dialog_input_bg"
+        android:layout_width="match_parent"
+        android:layout_height="33dp" />
+    <TextView
+        android:id="@+id/errorTips"
+        android:paddingTop="2dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/text_Fc291d"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btSure"
+        android:text="确定"
+        android:textSize="14sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/bg_white"
+        android:background="@drawable/btn_click"
+        android:layout_width="match_parent"
+        android:layout_height="36dp" />
+
+</LinearLayout>

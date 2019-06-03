@@ -1,0 +1,116 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#88000000"
+    tools:context="finan.heng.com.apps.app.my.fragment.BottomDialogFragment">
+    <!--<ImageView-->
+        <!--android:id="@+id/close_dialog"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="63dp"-->
+        <!--android:scaleType="center"-->
+        <!--android:src="@mipmap/share_close"-->
+        <!--android:layout_width="40dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--/>-->
+    <Button
+        android:id="@+id/close_dialog"
+        android:background="@drawable/bg_white_five_dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="12dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="取消"
+        android:textColor="#666666"
+        android:layout_width="match_parent"
+        android:layout_height="45dp" />
+    <GridView
+        android:id="@+id/grid_view"
+        android:paddingBottom="20dp"
+        android:paddingTop="@dimen/divide_10_dp"
+        android:background="@drawable/bg_white_five_dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="7dp"
+        android:numColumns="4"
+        android:layout_above="@id/close_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></GridView>
+    <!--<LinearLayout-->
+        <!--android:visibility="gone"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_above="@id/close_dialog"-->
+        <!--android:layout_marginLeft="25dp"-->
+        <!--android:layout_marginRight="25dp"-->
+        <!--android:layout_marginBottom="68dp"-->
+        <!--android:orientation="vertical">-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+
+            <!--&gt;-->
+            <!--<TextView-->
+                <!--android:id="@+id/activity_invite_friend_iv_one"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:drawableTop="@mipmap/moments"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="12sp"-->
+                <!--android:text="朋友圈" />-->
+            <!--<TextView-->
+                <!--android:id="@+id/activity_invite_friend_iv_two"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+               <!--android:layout_centerHorizontal="true"-->
+                <!--android:drawableTop="@mipmap/wechat"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="12sp"-->
+                <!--android:text="微信好友" />-->
+            <!--<TextView-->
+                <!--android:id="@+id/activity_invite_friend_iv_three"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+               <!--android:layout_alignParentRight="true"-->
+                <!--android:drawableTop="@mipmap/qq"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="12sp"-->
+                <!--android:text="QQ好友" />-->
+        <!--</RelativeLayout>-->
+
+        <!--<RelativeLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="30dp"-->
+
+            <!--android:gravity="center_vertical">-->
+            <!--<TextView-->
+                <!--android:id="@+id/activity_invite_friend_iv_four"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:drawableTop="@mipmap/qzone"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="12sp"-->
+                <!--android:text="QQ空间" />-->
+            <!--<TextView-->
+                <!--android:id="@+id/activity_invite_friend_iv_five"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:drawableTop="@mipmap/message"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:gravity="center"-->
+                <!--android:paddingTop="10dp"-->
+                <!--android:textSize="12sp"-->
+                <!--android:text="短信" />-->
+        <!--</RelativeLayout>-->
+
+    <!--</LinearLayout>-->
+
+
+</RelativeLayout>

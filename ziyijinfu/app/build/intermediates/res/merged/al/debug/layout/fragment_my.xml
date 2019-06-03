@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/toolbar_my"/>
+
+    <com.scwang.smartrefresh.layout.SmartRefreshLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/pullRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srlEnablePreviewInEditMode="false">
+
+        <com.scwang.smartrefresh.layout.header.ClassicsHeader
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </com.scwang.smartrefresh.layout.header.ClassicsHeader>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#f4f5f8"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#fff"
+                    android:orientation="vertical">
+
+
+                    <RelativeLayout
+                        android:id="@+id/rl_top"
+                        android:layout_width="match_parent"
+                        android:layout_height="185dp"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginRight="14dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/my_top_background">
+
+                        <Button
+                            android:id="@+id/my_login"
+                            android:layout_width="115dp"
+                            android:layout_height="33dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginBottom="20dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_marginTop="56dp"
+                            android:background="@drawable/btn_click_circle_white"
+                            android:text="登录/注册"
+                            android:textColor="#fff"
+                            android:visibility="gone" />
+
+                        <RelativeLayout
+                            android:id="@+id/all_property_layout"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="47dp">
+
+                            <LinearLayout
+                                android:id="@+id/tv_zongzichan_layout"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:orientation="horizontal">
+
+                                <TextView
+                                    android:id="@+id/tv_keyongyue"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="20dp"
+                                    android:layout_centerHorizontal="true"
+                                    android:gravity="center_vertical"
+                                    android:textColor="#ffffff"
+                                    android:textSize="15sp" />
+
+                                <ImageView
+                                    android:id="@+id/show_num"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="20dp"
+                                    android:layout_below="@+id/tv_jine"
+                                    android:layout_marginLeft="9dp"
+                                    android:scaleType="center"
+                                    android:src="@drawable/my_eye_open" />
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/tv_zongzichan"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@id/tv_zongzichan_layout"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginTop="5dp"
+                                android:includeFontPadding="false"
+                                android:text="0.00"
+                                android:textColor="#ffffff"
+                                android:textSize="30sp" />
+                        </RelativeLayout>
+
+                        <LinearLayout
+                            android:id="@+id/shouyi_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_above="@+id/my_top_bottom_layout"
+                            android:layout_marginBottom="14dp"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/tv_totalProfitLabel"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textColor="#ffffff"
+                                android:textSize="13sp" />
+
+                            <TextView
+                                android:id="@+id/tv_shouyi"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:text="0.00"
+                                android:textColor="#ffffff"
+                                android:textSize="14sp" />
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="元"
+                                android:textColor="#ffffff"
+                                android:textSize="14sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/my_top_bottom_layout"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentBottom="true"
+                            android:layout_marginBottom="3dp"
+                            android:orientation="horizontal"></LinearLayout>
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/account_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="7dp"
+                    android:background="#fff"
+                    android:paddingBottom="20dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:paddingTop="20dp">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/tv_balanceLabel"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/tv_jine"
+                            android:layout_marginTop="2dp"
+                            android:textColor="#999"
+                            android:textSize="14sp" />
+
+                        <TextView
+                            android:id="@+id/tv_jine"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="5dp"
+                            android:text="0.00"
+                            android:textColor="#333"
+                            android:textSize="15sp" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/fragment_my_chongzhi"
+                        android:layout_width="75dp"
+                        android:layout_height="28dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/btn_click_round_rect"
+                        android:drawablePadding="8dp"
+                        android:gravity="center"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
+                        android:text="充值"
+                        android:textColor="@color/white"
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:id="@+id/fragment_my_tixian"
+                        android:layout_width="75dp"
+                        android:layout_height="28dp"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toLeftOf="@id/fragment_my_chongzhi"
+                        android:background="@drawable/btn_click_circle"
+                        android:drawablePadding="8dp"
+                        android:gravity="center"
+                        android:textColor="@color/text_Fc291d"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/img_noRealName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:layout_marginBottom="7dp"
+                    android:layout_marginTop="14dp"
+                    android:layout_marginLeft="14dp"
+                    android:layout_marginRight="14dp"
+                    android:scaleType="fitXY"
+                    android:visibility="gone"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/invest_record"
+                        style="@style/View.Horizontal"
+                        android:layout_marginTop="7dp"
+                        app:bottomLine="visible"
+                        app:centerText="@string/my_invest"
+                        app:leftImage="@drawable/my_invest"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/trade_record"
+                        style="@style/View.Horizontal"
+                        app:bottomLine="visible"
+
+                        app:centerText="@string/my_trade"
+                        app:leftImage="@drawable/my_trade"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/invite_friend"
+                        style="@style/View.Horizontal"
+                        android:layout_marginTop="7dp"
+                        app:bottomLine="visible"
+                        app:centerText="@string/my_invite"
+                        app:leftImage="@drawable/my_invite"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/menu_redpag"
+                        style="@style/View.Horizontal"
+                        app:bottomLine="visible"
+                        app:centerText="@string/my_reward"
+                        app:leftImage="@drawable/my_reward"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/coupon"
+                        style="@style/View.Horizontal"
+                        app:bottomLine="visible"
+                        app:centerText="@string/my_interest"
+                        app:leftImage="@drawable/my_interest"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/card_layout"
+                        style="@style/View.Horizontal"
+                        app:bottomLine="gone"
+                        app:centerText="@string/my_gift_card"
+                        app:leftImage="@drawable/my_gift_card"
+                        app:rightImage="@drawable/arrow_right_gray" />
+
+                    <finan.heng.com.apps.app.ui.widget.MenuItem
+                        android:id="@+id/iv_setting"
+                        style="@style/View.Horizontal"
+                        android:visibility="gone"
+                        app:bottomLine="gone"
+                        app:centerText="@string/my_setting"
+                        app:leftImage="@drawable/my_setting"
+                        app:rightImage="@drawable/arrow_right_gray" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </com.scwang.smartrefresh.layout.SmartRefreshLayout>
+</LinearLayout>

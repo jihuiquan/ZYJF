@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ll_empty"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:visibility="visible">
+
+    <finan.heng.com.apps.utils.MyScrollView
+        android:id="@+id/myScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.youth.banner.Banner
+                android:id="@+id/banner"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                app:image_scale_type="fit_xy"
+                app:is_auto_play="true" />
+            <LinearLayout
+                android:id="@+id/fragment_home_scroll"
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:background="@color/bg_home_notice"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingTop="5dp">
+                <ImageView
+                    android:layout_marginLeft="17dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_home_notice"
+                    />
+                <finan.heng.com.apps.widgets.NoticeView
+                    android:layout_marginLeft="3dp"
+                    android:id="@+id/fragment_home_scolltextview"
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:background="@color/white"
+                    android:paddingRight="10dp"
+                    app:nvIconPadding="35dp"
+                    app:nvTextColor="@color/txt_product_light_gray"
+                    app:nvTextGravity="left"
+                    app:nvTextSize="12sp" />
+                <!--app:nvIconPadding="5dp"-->
+                <!--app:nvIconTint="@android:color/white"-->
+                <ImageView
+                    android:id="@+id/fragment_home_right_arrow"
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/arrow_right_gray"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+            <include layout="@layout/layout_home_tab"/>
+            <View
+                android:background="#f4f5f8"
+                android:layout_width="match_parent"
+                android:layout_height="5dp"></View>
+
+
+            <ImageView
+                android:id="@+id/home_newer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"
+                android:scaleType="fitXY"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp" />
+
+            <LinearLayout
+                android:id="@+id/hotroot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/new_invest"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+
+                    <!--<include layout="@layout/layout_product_home_title" />-->
+                    <ImageView
+                        android:id="@+id/img_noData"
+                        android:layout_width="240dp"
+                        android:layout_height="240dp"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="20dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:text="网络已被劫走，努力寻找中..."
+                        android:textColor="#999999"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginTop="10dp"
+                        android:text="请下拉刷新试试"
+                        android:textColor="#999999"
+                        android:textSize="12sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <include layout="@layout/finace_warning" />
+        </LinearLayout>
+
+    </finan.heng.com.apps.utils.MyScrollView>
+
+</LinearLayout>

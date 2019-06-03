@@ -1,0 +1,1074 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:2:1-483:12
+	package
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:8:5-77
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\8c8245dc09ba32007ee8e6660e2d4de6c2f0b5a5\output\AndroidManifest.xml:18:5-42
+MERGED from [cn.sharesdk:ShareSDK:3.6.0] C:\Users\Administrator\.android\build-cache\21a6b3d2ba787b4526385476e99a51a5c010fbd3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.sharesdk:OneKeyShare:3.6.0] C:\Users\Administrator\.android\build-cache\5f74c57e2fdd5678e519d19e771d8aa00337fd9e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.orhanobut:logger:1.11] C:\Users\Administrator\.android\build-cache\150bf2ccb09829546ee0e92aff0fb5bb2b6e6776\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.avast:android-styled-dialogs:2.2.0] C:\Users\Administrator\.android\build-cache\eb053c69a2a3314daf9b93806887092135127d86\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\Administrator\.android\build-cache\d4539c10b6f781f2b95ae2fbdeb53118fc917556\output\AndroidManifest.xml:3:5-72
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Administrator\.android\build-cache\b3368c1da59f74dbd7b8bc5b94f1567d042414fa\output\AndroidManifest.xml:2:5-72
+MERGED from [com.github.rahatarmanahmed:circularprogressview:2.3.2] C:\Users\Administrator\.android\build-cache\4436616a6a464cfb1e6d8510590543bab23faa92\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.relex:circleindicator:1.1.5] C:\Users\Administrator\.android\build-cache\38a229f24c0db59e238c5a93793977cc19409d87\output\AndroidManifest.xml:8:5-10:41
+MERGED from [se.emilsjolander:stickylistheaders:2.7.0] C:\Users\Administrator\.android\build-cache\e3b408f65db04f1b7d89d88e4d597eb7f5b7fb09\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.12.0] C:\Users\Administrator\.android\build-cache\3251945e9deede7e2b77c84aaeba71bc1532e528\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.12.0] C:\Users\Administrator\.android\build-cache\583f706045bf51514738b45c0c58aaf229e4d680\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.12.0] C:\Users\Administrator\.android\build-cache\ff643bf02710c1742ea5291672ea68a001a6340b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] C:\Users\Administrator\.android\build-cache\62784f4e4aa4b1e35d35225c0e48c95f9cab93f3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.12.0] C:\Users\Administrator\.android\build-cache\8510fb5dead02fa644f0fbac53f559f224481bc5\output\AndroidManifest.xml:5:5-7:41
+MERGED from [ziyijinfu:banner:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\banner\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [ziyijinfu:passwordInputLayout:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\passwordInputLayout\build\intermediates\bundles\default\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.0.1] C:\Users\Administrator\.android\build-cache\dae6bbe1066535948264a03c5f95dd6225340719\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\Administrator\.android\build-cache\84e4e35631b98ccb5ebf66844380a68a67211f15\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.lester:scolltextview:1.0.0] C:\Users\Administrator\.android\build-cache\f6067f9e8b26465c830ff2839cefe25e01468259\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mcxiaoke.xbus:bus:1.0.2] C:\Users\Administrator\.android\build-cache\aafa0e50a5a8d23d128519cf12dcb757c0d79747\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\Administrator\.android\build-cache\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\output\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] C:\Users\Administrator\.android\build-cache\a3252f1e8d9e0e6b992fa316afaef84af82b727d\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Administrator\.android\build-cache\19887d10a3f5905db2d2a7e338a9818bf9e187c0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\848750cbde4f52825ee50b93379529dc9d4819e5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\26900f3a5da218f85284eed80b8435130a4c796a\output\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Administrator\.android\build-cache\96f6ad144a8fc51a532bbc40c46a7c37cf8d23fc\output\AndroidManifest.xml:19:5-43
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:base-adapter:3.0.3] C:\Users\Administrator\.android\build-cache\77d0593f1bb27b5eb540e41f3e65f0c0de96be56\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Administrator\.android\build-cache\43e3bd200958eceae8704e107f3af8551bac4a39\output\AndroidManifest.xml:20:5-44
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\d79aa7696bc4d2a19852d5aa33acc449934d104f\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\Administrator\.android\build-cache\f3fd38d99eac2ca486364cfca6745a086500bd2e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] C:\Users\Administrator\.android\build-cache\d1ba3a771751a9c51edd4ded1baf00b6453964c0\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\247a13e406a777ce433d0d6f5d38e17784ce727b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [me.codeboy.android:align-text-view:2.3.0] C:\Users\Administrator\.android\build-cache\501274f7abea6582897b135db762610f3d2ea01f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\6c70016cf5a328d57b5f16c08df9f2250d53018c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport:3.0.0] C:\Users\Administrator\.android\build-cache\496c533018c89f4e7a15c1bf9b589ac03ceceb3b\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.7.1] C:\Users\Administrator\.android\build-cache\a6f11b8274d71eeee12fe6c97b7f960c1f34ed94\output\AndroidManifest.xml:5:5-7:41
+MERGED from [net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0] C:\Users\Administrator\.android\build-cache\49f87951c0a58f366c75d794a74713ae63df7122\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\Administrator\.android\build-cache\135e018943d19a1703b6d2686485193029b6a433\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\Administrator\.android\build-cache\4abac4662175d0fcd6841146e5048f10e4beb497\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Administrator\.android\build-cache\b5eabe119ed6a5f3347016ace3d32c5e50060440\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Administrator\.android\build-cache\88e06d8af305b5329b56ebf80a84bb44a3fcd299\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Administrator\.android\build-cache\94eac4cbe0b158ddba8ff63f07de47001fb606a2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Administrator\.android\build-cache\2afa1b634ad449efc7ab594d260023f367f00472\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Administrator\.android\build-cache\7bd38e1487356557fa18a79742ed2712b1c96911\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Administrator\.android\build-cache\615064561a89bc7bdae0e3ccc077412416ba8524\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:8:15-74
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:21:5-67
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:26:5-67
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:22:5-81
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:29:5-81
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:24:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:25:5-79
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:27:5-79
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:26:5-84
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:26:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:27:5-80
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:28:5-68
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:29:5-76
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:31:5-76
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:29:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:30:5-76
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:32:5-76
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:30:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:31:5-75
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:25:5-75
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:31:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:32:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:32:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:33:5-71
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:33:22-68
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:34:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:37:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:38:5-74
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:38:22-71
+uses-permission#xvtian.gai.receiver
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:39:5-59
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:39:22-56
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:40:5-78
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:20:5-78
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:40:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:41:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:41:22-77
+application
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:43:5-481:19
+MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:41:5-44:19
+MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\Administrator\.android\build-cache\d4539c10b6f781f2b95ae2fbdeb53118fc917556\output\AndroidManifest.xml:5:5-19
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Administrator\.android\build-cache\b3368c1da59f74dbd7b8bc5b94f1567d042414fa\output\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\Administrator\.android\build-cache\dae6bbe1066535948264a03c5f95dd6225340719\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\Administrator\.android\build-cache\84e4e35631b98ccb5ebf66844380a68a67211f15\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.lester:scolltextview:1.0.0] C:\Users\Administrator\.android\build-cache\f6067f9e8b26465c830ff2839cefe25e01468259\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.mcxiaoke.xbus:bus:1.0.2] C:\Users\Administrator\.android\build-cache\aafa0e50a5a8d23d128519cf12dcb757c0d79747\output\AndroidManifest.xml:9:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\Administrator\.android\build-cache\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Administrator\.android\build-cache\19887d10a3f5905db2d2a7e338a9818bf9e187c0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\848750cbde4f52825ee50b93379529dc9d4819e5\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\26900f3a5da218f85284eed80b8435130a4c796a\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:32:5-82:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Administrator\.android\build-cache\43e3bd200958eceae8704e107f3af8551bac4a39\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.0.3] C:\Users\Administrator\.android\build-cache\d79aa7696bc4d2a19852d5aa33acc449934d104f\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.0.3] C:\Users\Administrator\.android\build-cache\f3fd38d99eac2ca486364cfca6745a086500bd2e\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\247a13e406a777ce433d0d6f5d38e17784ce727b\output\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\6c70016cf5a328d57b5f16c08df9f2250d53018c\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Administrator\.android\build-cache\b5eabe119ed6a5f3347016ace3d32c5e50060440\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Administrator\.android\build-cache\88e06d8af305b5329b56ebf80a84bb44a3fcd299\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Administrator\.android\build-cache\94eac4cbe0b158ddba8ff63f07de47001fb606a2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Administrator\.android\build-cache\2afa1b634ad449efc7ab594d260023f367f00472\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Administrator\.android\build-cache\7bd38e1487356557fa18a79742ed2712b1c96911\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Administrator\.android\build-cache\615064561a89bc7bdae0e3ccc077412416ba8524\output\AndroidManifest.xml:25:5-29:19
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:50:9-45
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:49:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:51:9-35
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:47:9-43
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:46:9-79
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:45:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:48:9-47
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:52:9-40
+	tools:replace
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:53:9-37
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:44:9-64
+activity#finan.heng.com.apps.MainActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:54:9-57:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:57:13-49
+	android:launchMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:55:13-60
+activity#finan.heng.com.apps.app.home.activity.RiskEvaluationActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:58:9-60:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:60:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:59:13-88
+activity#finan.heng.com.apps.app.home.activity.EvaluationSuccessActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:61:9-63:52
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:63:13-49
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:62:13-91
+activity#finan.heng.com.apps.app.home.activity.TouziActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:65:9-70:58
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:67:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:70:13-55
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:66:13-79
+activity#finan.heng.com.apps.WelcomeActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:72:9-81:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:75:13-47
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:73:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:79:27-74
+activity#finan.heng.com.apps.app.ui.activity.ActivityAdActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:82:9-88:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:85:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:88:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:84:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:87:13-47
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:83:13-82
+activity#finan.heng.com.apps.app.my.activity.CardActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:89:9-95:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:92:13-31
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:95:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:91:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:90:13-76
+activity#finan.heng.com.apps.app.home.activity.TouziSuccessActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:98:9-104:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:101:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:104:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:100:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:103:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:99:13-86
+activity#finan.heng.com.apps.app.home.activity.ShiMingRenZhengActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:106:9-112:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:109:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:112:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:108:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:111:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:107:13-89
+activity#finan.heng.com.apps.app.my.activity.JiaoYiJiLuActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:114:9-120:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:117:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:120:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:116:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:119:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:115:13-82
+activity#finan.heng.com.apps.app.my.activity.ChongZhiOrTiXianActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:122:9-128:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:125:13-31
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:128:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:124:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:127:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:123:13-88
+activity#finan.heng.com.apps.app.ui.activity.WithDrawResultActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:130:9-136:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:133:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:136:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:132:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:135:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:131:13-86
+activity#finan.heng.com.apps.app.my.activity.TouZiJiLuActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:138:9-144:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:142:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:141:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:144:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:140:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:143:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:139:13-81
+activity#finan.heng.com.apps.app.my.activity.YouHuiQuanActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:146:9-152:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:149:13-32
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:152:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:148:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:151:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:147:13-82
+activity#finan.heng.com.apps.app.my.activity.MessageCenterActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:154:9-160:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:157:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:160:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:156:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:159:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:155:13-85
+activity#finan.heng.com.apps.app.my.activity.GongGaoDetailActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:162:9-168:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:165:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:168:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:164:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:167:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:163:13-85
+activity#finan.heng.com.apps.app.my.activity.SettingActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:170:9-176:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:174:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:173:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:176:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:172:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:175:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:171:13-79
+activity#finan.heng.com.apps.app.home.activity.ShiMingPassActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:178:9-184:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:181:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:184:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:180:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:183:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:179:13-85
+activity#finan.heng.com.apps.app.home.activity.MyBankCardActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:186:9-192:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:189:13-34
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:192:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:188:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:191:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:187:13-84
+activity#finan.heng.com.apps.app.my.activity.BankListActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:194:9-200:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:198:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:197:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:200:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:196:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:199:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:195:13-80
+activity#finan.heng.com.apps.app.home.activity.ReviseLoginMimaActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:202:9-208:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:206:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:205:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:208:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:204:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:207:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:203:13-89
+activity#finan.heng.com.apps.app.home.activity.ReviseJiaoYiMimaActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:210:9-216:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:214:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:213:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:216:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:212:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:215:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:211:13-90
+activity#finan.heng.com.apps.app.home.activity.FindJiaoYiMimaActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:218:9-224:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:222:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:221:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:224:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:220:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:223:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:219:13-88
+activity#finan.heng.com.apps.app.home.activity.SetJiaoYiMimaActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:226:9-232:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:230:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:229:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:232:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:228:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:231:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:227:13-87
+activity#finan.heng.com.apps.app.my.activity.GuizeShuomingActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:234:9-240:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:238:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:237:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:240:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:236:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:239:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:235:13-85
+activity#finan.heng.com.apps.app.finance.activity.ProductDetailListActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:243:9-249:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:247:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:246:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:249:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:245:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:248:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:244:13-94
+activity#finan.heng.com.apps.app.finance.activity.ProductDetailModifyActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:250:9-256:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:254:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:253:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:256:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:252:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:255:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:251:13-96
+activity#finan.heng.com.apps.app.finance.activity.InvestRecordActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:257:9-262:47
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:261:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:260:13-33
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:259:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:262:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:258:13-89
+activity#finan.heng.com.apps.app.my.activity.AboutUsActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:264:9-270:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:268:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:267:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:270:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:266:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:269:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:265:13-79
+activity#finan.heng.com.apps.app.my.activity.YiJianFanKuiActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:272:9-278:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:276:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:275:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:278:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:274:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:277:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:273:13-84
+activity#finan.heng.com.apps.app.finance.activity.PicShowActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:280:9-286:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:284:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:283:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:286:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:282:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:285:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:281:13-84
+activity#finan.heng.com.apps.app.finance.activity.BigPicActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:289:9-295:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:293:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:292:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:295:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:291:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:294:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:290:13-83
+activity#finan.heng.com.apps.app.my.activity.InviteFriendActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:297:9-303:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:301:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:300:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:303:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:299:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:302:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:298:13-84
+activity#finan.heng.com.apps.app.my.activity.InviteHistoryActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:305:9-311:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:309:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:308:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:311:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:307:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:310:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:306:13-85
+activity#finan.heng.com.apps.LoginActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:313:9-320:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:318:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:316:13-31
+	android:launchMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:317:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:320:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:315:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:319:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:314:13-61
+activity#finan.heng.com.apps.app.ui.activity.CheckPhoneActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:322:9-329:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:327:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:325:13-35
+	android:launchMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:326:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:329:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:324:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:328:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:323:13-82
+activity#finan.heng.com.apps.app.my.activity.RegisterActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:331:9-337:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:335:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:334:13-31
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:337:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:333:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:336:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:332:13-80
+activity#finan.heng.com.apps.app.my.activity.ForgetPasswordActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:339:9-345:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:343:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:342:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:345:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:341:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:344:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:340:13-86
+activity#finan.heng.com.apps.WebActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:347:9-353:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:351:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:350:13-31
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:353:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:349:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:352:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:348:13-59
+activity#finan.heng.com.apps.app.home.activity.HomeScrollTextActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:355:9-361:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:359:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:358:13-43
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:361:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:357:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:360:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:356:13-88
+activity#finan.heng.com.apps.app.ui.activity.UpdateActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:362:9-367:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:365:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:367:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:364:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:366:13-42
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:363:13-78
+activity#finan.heng.com.apps.app.ui.activity.ShowStepViewActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:368:9-373:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:371:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:373:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:370:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:372:13-42
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:369:13-84
+activity#finan.heng.com.apps.app.my.activity.ForgetPasswordActivity2
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:375:9-381:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:379:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:378:13-34
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:381:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:377:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:380:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:376:13-87
+activity#finan.heng.com.apps.app.ui.activity.VerifyInfoActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:382:9-388:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:386:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:385:13-32
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:388:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:384:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:387:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:383:13-82
+activity#finan.heng.com.apps.app.my.activity.ChongZhiListActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:390:9-396:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:394:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:393:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:396:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:392:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:395:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:391:13-84
+activity#finan.heng.com.apps.PayH5Activity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:398:9-404:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:402:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:401:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:404:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:400:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:403:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:399:13-61
+activity#finan.heng.com.apps.app.my.activity.RechargeResultActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:406:9-412:55
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:410:13-49
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:409:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:412:13-52
+	android:configChanges
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:408:13-83
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:411:13-44
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:407:13-86
+service#finan.heng.com.apps.DemoPushService
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:447:9-451:46
+	android:process
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:451:13-43
+	android:label
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:450:13-40
+	android:exported
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:449:13-36
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:448:13-63
+service#finan.heng.com.apps.DemoIntentService
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:452:9-73
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:452:18-70
+activity#finan.heng.com.apps.GuideActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:454:9-457:50
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:456:13-49
+	android:theme
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:457:13-47
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:455:13-61
+meta-data#UMENG_CHANNEL
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:459:9-461:54
+	android:value
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:461:13-51
+		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:460:13-41
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:462:9-464:56
+	android:value
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:464:13-53
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:463:13-40
+meta-data#android.max_aspect
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:473:9-475:35
+	android:value
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:475:13-32
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:474:13-46
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:476:9-478:35
+REJECTED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\6c70016cf5a328d57b5f16c08df9f2250d53018c\output\AndroidManifest.xml:12:9-14:43
+	tools:node
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:478:13-32
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:477:13-84
+activity#finan.heng.com.apps.WebOpenActivity
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:480:9-81
+	android:name
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:480:19-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:21:22-76
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:24:5-88
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:24:22-85
+uses-permission#android.permission.VIBRATE
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:33:5-66
+MERGED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:33:22-63
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:35:5-70
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:35:22-67
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:39:5-85
+	android:name
+		ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:39:22-82
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\Administrator\.android\build-cache\dae6bbe1066535948264a03c5f95dd6225340719\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\Administrator\.android\build-cache\84e4e35631b98ccb5ebf66844380a68a67211f15\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\Administrator\.android\build-cache\19887d10a3f5905db2d2a7e338a9818bf9e187c0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\848750cbde4f52825ee50b93379529dc9d4819e5\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\Administrator\.android\build-cache\26900f3a5da218f85284eed80b8435130a4c796a\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\Administrator\.android\build-cache\43e3bd200958eceae8704e107f3af8551bac4a39\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\Administrator\.android\build-cache\b5eabe119ed6a5f3347016ace3d32c5e50060440\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\Administrator\.android\build-cache\88e06d8af305b5329b56ebf80a84bb44a3fcd299\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\Administrator\.android\build-cache\94eac4cbe0b158ddba8ff63f07de47001fb606a2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\Administrator\.android\build-cache\2afa1b634ad449efc7ab594d260023f367f00472\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\Administrator\.android\build-cache\7bd38e1487356557fa18a79742ed2712b1c96911\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\Administrator\.android\build-cache\615064561a89bc7bdae0e3ccc077412416ba8524\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:17:22-78
+uses-permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:26:5-86
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:26:22-83
+permission#getui.permission.GetuiService.${applicationId}
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:28:5-30:44
+	android:protectionLevel
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:30:9-41
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:29:9-70
+meta-data#PUSH_APPID
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:35:9-37:47
+	android:value
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:36:13-38
+meta-data#PUSH_APPKEY
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:38:9-40:48
+	android:value
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:39:13-39
+meta-data#PUSH_APPSECRET
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:41:9-43:51
+	android:value
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:43:13-48
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:42:13-42
+service#com.igexin.sdk.PushService
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:46:9-54:19
+	android:process
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:50:13-43
+	android:label
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:49:13-47
+	android:exported
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:47:13-54
+intent-filter#com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:51:13-53:29
+action#com.igexin.sdk.action.service.message
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:52:17-80
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:52:25-77
+receiver#com.igexin.sdk.PushReceiver
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:56:9-66:20
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:56:19-61
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.igexin.sdk.action.refreshls
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:57:13-65:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:58:17-79
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:58:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:59:17-79
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:59:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:60:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:61:17-74
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:61:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:62:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:64:25-87
+activity#com.igexin.sdk.PushActivity
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:68:9-74:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:72:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:70:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:71:13-37
+	android:theme
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:74:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:69:13-55
+activity#com.igexin.sdk.GActivity
+ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:75:9-81:75
+	android:process
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:79:13-43
+	android:excludeFromRecents
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:77:13-46
+	android:exported
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:78:13-36
+	android:theme
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:81:13-72
+	android:taskAffinity
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:80:13-67
+	android:name
+		ADDED from [com.getui:sdk:2.12.3.0] C:\Users\Administrator\.android\build-cache\611a5edbfcd4773686bf6c4d2e229daf7a013319\output\AndroidManifest.xml:76:13-52

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@color/bg_theme"
+    >
+    <include layout="@layout/toolbar"/>
+
+    <ImageView
+        android:id="@+id/result_img"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/recharge_success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tip_one"
+        android:text="系统充值中，请耐心等待"
+        android:layout_marginTop="17dp"
+        android:textSize="19sp"
+        android:textColor="#666"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+    <TextView
+        android:id="@+id/tip_two"
+        android:visibility="gone"
+        android:layout_marginTop="39dp"
+        android:background="#fff"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textColor="#999"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <RelativeLayout
+        android:id="@+id/success_layout"
+        android:background="#fff"
+        android:layout_marginTop="39dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_marginLeft="16dp"
+            android:layout_centerVertical="true"
+            android:text="充值金额"
+            android:textColor="#333"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/recharge_amount"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:textSize="13sp"
+            android:text=""
+            android:textColor="@color/text_Fc291d"
+            android:layout_marginRight="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_marginTop="26dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/back_to_account"
+            android:text="回到账户"
+            android:background="@drawable/btn_click_circle"
+            android:textColor="@color/text_Fc291d"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="45dp" />
+        <TextView
+            android:layout_weight="1"
+            android:text="立即投资"
+            android:background="@drawable/btn_click_round_rect"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/invest_now"
+            android:layout_width="0dp"
+            android:layout_height="45dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/telephone"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:drawableLeft="@drawable/recharge_telephone"
+            android:drawablePadding="4dp"
+            android:text="客服电话：400-200-600"
+            android:textSize="15sp"
+            android:textColor="#666"
+            android:layout_marginBottom="80dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

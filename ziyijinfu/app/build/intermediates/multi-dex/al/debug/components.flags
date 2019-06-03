@@ -1,0 +1,42 @@
+-injars 'C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\jarMerging\al\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\multi-dex\al\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Administrator\AppData\Local\Android\Sdk\build-tools\28.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\multi-dex\al\debug\components.flags'
+
+
+# view AndroidManifest.xml #generated:35
+-keep class finan.heng.com.apps.base.BaseApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}
