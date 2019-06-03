@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">子壹金服</string>
+    <string name="my">我的</string>
+    <string name="finance">投资</string>
+    <string name="home">首页</string>
+    <string name="manage">资产</string>
+    <string name="assets">理财</string>
+    <string name="txt_base">txt_base</string>
+    <string name="menu_aboutus">关于我们</string>
+    <string name="menu_wechat">微信公众号：子壹金服</string>
+    <string name="menu_mark">给子壹打分</string>
+    <string name="menu_help">帮助中心</string>
+    <string name="menu_notice">公告中心</string>
+    <string name="menu_safe">安全保障</string>
+
+    <string name="my_invest">投资记录</string>
+    <string name="my_trade">交易流水</string>
+    <string name="my_invite">邀请好友</string>
+    <string name="my_reward">投资红包</string>
+    <string name="my_gift_card">我的礼品卡</string>
+    <string name="my_setting">个人设置</string>
+    <string name="txt_title_product">理财产品</string>
+    <string name="txt_finace_warning">理财有风险，投资需谨慎</string>
+
+    <string name="touzi_empty_tip">请先输入投资金额</string>
+    <string name="touzi_no_redpack">无可用红包</string>
+    <string name="touzi_no_coupon">无可用加息券</string>
+    <string name="touzi_hava_redpack">有可用红包</string>
+    <string name="touzi_hava_coupon">有可用加息券</string>
+    <string name="txt_warning_mobile">请输入您的手机号码</string>
+
+
+    <string name="detail_detail">项目详情</string>
+    <string name="detail_guaranty">安全保障</string>
+    <string name="detail_invest_record">投资记录</string>
+    <string name="menu_exchange_bank">换卡规则</string>
+    <string name="my_interest">我的加息券</string>
+    <string name="youxiaoqi">有效期至:  </string>
+    <string-array name="share_names">
+        <item>微信</item>
+        <item>朋友圈</item>
+        <item>QQ好友</item>
+        <item>QQ空间</item>
+        <item>短信</item>
+    </string-array>
+    <integer-array name="share_pic">
+        <item>@drawable/share_wechat</item>
+        <item>@drawable/share_moments</item>
+        <item>@drawable/share_qq</item>
+        <item>@drawable/share_qzone</item>
+        <item>@drawable/share_message</item>
+    </integer-array>
+    <string name="resetPwd">我司为响应国家金融合规进行三级等保评测，现等保要求用户定期修改密码，需要您进行修改密码。</string>
+    <string name="home_btn_text">立即抢购</string>
+    <string name="str_project_hot">子壹企贷</string>
+    <string name="str_project_past">子壹车贷</string>
+</resources>

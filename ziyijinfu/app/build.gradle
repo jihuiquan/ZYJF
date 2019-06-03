@@ -1,0 +1,302 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'kotlin-android'
+//apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.mob.sdk'
+
+def releaseTime() {
+    return new Date().format("yyyy-MM-dd")
+}
+
+def androidConfig = rootProject.ext.android
+MobSDK {
+    appKey "26935f18e96f0"
+    appSecret "fced4cb36498624f29abcbd8138c0cdf"
+
+    ShareSDK {
+//平台配置信息
+        gui true
+        devInfo {
+            ShortMessage {
+                id 13
+                sortId 13
+                enable true
+            }
+            Wechat {
+                id 4
+                sortId 4
+                appId "wxd0e7ad795b17372b"
+                appSecret "2fe2fb6db25f20fb7e3f8f3eddafdf0d"
+                userName "gh_afb25ac019c9"
+                path "pages/index/index.html?id=1"
+                bypassApproval false
+                enable true
+            }
+            QQ {
+                id 7
+                sortId 7
+                appId "1107006706"
+                appKey "ceWkTkRkTkoC1LEo"
+                bypassApproval false
+                shareByAppClient true
+                enable true
+            }
+            WechatMoments {
+                id 5
+                sortId 5
+                appId "wxd0e7ad795b17372b"
+                appSecret "2fe2fb6db25f20fb7e3f8f3eddafdf0d"
+                bypassApproval false
+                enable true
+            }
+            QZone {
+                id 3
+                sortId 3
+                appId "1107006706"
+                appKey "ceWkTkRkTkoC1LEo"
+                bypassApproval false
+                enable true
+            }
+        }
+    }
+
+}
+android {
+    compileSdkVersion androidConfig.compileSdkVersion
+    buildToolsVersion '28.0.3'
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+    dataBinding {
+        enabled = true
+    }
+    dexOptions {
+        jumboMode = true
+        javaMaxHeapSize "4g" // 2g should be also OK
+    }
+    defaultConfig {
+        applicationId "finan.ziyijinfu.com.apps"
+        minSdkVersion androidConfig.minSdkVersion
+        targetSdkVersion androidConfig.targetSdkVersion
+        versionCode 12
+        versionName "1.0.2"
+        // dex突破65535的限制
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders = [
+                GETUI_APP_ID    : "hc9vWqPV6g7RwceOp7cj99",
+                GETUI_APP_KEY   : "daMxdqelUM8H9taPtuIZV5",
+                GETUI_APP_SECRET: "UWn0UO4bPPAMB2Uc18jiK2",
+                PACKAGE_NAME    : applicationId
+        ]
+        ndk {
+//            abiFilters "armeabi", "armeabi-v7a", "arm64-v8a", "mips", "mips64", "x86", "x86_64"
+            abiFilters "armeabi", "armeabi-v7a", "x86_64"
+        }
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/maven/com.squareup.okhttp/okhttp/pom.xml'
+        exclude 'META-INF/maven/com.squareup.okhttp/okhttp/pom.properties'
+        exclude 'META-INF/maven/com.squareup.okio/okio/pom.xml'
+        exclude 'META-INF/maven/com.squareup.okio/okio/pom.properties'
+    }
+
+    signingConfigs {
+
+
+        release {
+            storeFile file("../ziyi.jks")
+            storePassword "ziyijinfu123"
+            keyAlias "ziyijinfu"
+            keyPassword "ziyijinfu123"
+        }
+    }
+    buildTypes {
+        debug {
+            debuggable true
+            buildConfigField("Boolean", "isDebug", "true")
+        }
+        release {
+            debuggable true
+//            buildConfigField("Boolean","isDebug","true")
+            buildConfigField("Boolean", "isDebug", "false")
+            zipAlignEnabled true
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        // 输出apk名称为jincaiwa_v1.0_2015-01-15_wandoujia.apk
+                        def fileName = "ziyijf_v${defaultConfig.versionName}_${releaseTime()}_${variant.productFlavors[0].name}.apk"
+                        output.outputFile = new File(outputFile.parent, fileName)
+                    }
+                }
+            }
+        }
+    }
+
+    // 友盟多渠道打包
+    productFlavors {
+
+        bd {}
+        qh360 {}
+        yyb {}
+        mz {}
+        oppo {}
+        vivo {}
+        hw {}
+        xm {}
+        sx {}
+        mmy {}
+        anzhi {}
+        ls {}
+        al {}
+        lx {}
+        sg {}
+        cz {}
+//        zy {}
+        ziyi {}
+//        yr {}
+//        jl {}
+//        tqw {}
+//        jrtt_1 {}
+//        jrtt_2 {}
+//        jrtt_3 {}
+//        jrtt_4 {}
+//        jrtt_5 {}
+//        jrtt_6 {}
+//        jrtt_7 {}
+//        jrtt_8 {}
+//        jrtt_9 {}
+//        jrtt_10 {}
+//        zaker7 {}
+//        zaker8 {}
+//        ydzx7 {}
+//        ydzx8 {}
+    }
+
+    productFlavors.all { flavor ->
+        flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+    }
+}
+def dependenciesVar = rootProject.ext.dependenciesVar
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    //引导页
+
+    //最新版本
+
+    //下拉刷新
+
+    //事件分发7
+
+    //dialog
+
+    //响应式
+
+    //OKHTTP网络连接类库
+
+    //OKHTTP网络连接拦截器，用来打印接口LOG
+
+    //GSON转换
+
+    //绑定view和点击方法注解
+
+    //相关配置个推
+
+    //kotlin
+
+    //    compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+
+    //    kapt 'com.android.databinding:compiler:2.3.3'
+
+    //    compile "org.jetbrains.anko:anko-common:$anko_version"
+
+    //    compile "org.jetbrains.anko:anko-support-v4:$anko_version"
+
+    //    compile "org.jetbrains.anko:anko-appcompat-v7:$anko_version"
+
+    //    compile "org.jetbrains.anko:anko-design:$anko_version"
+
+    //    compile "org.jetbrains.anko:anko-recyclerview-v7:$anko_version"
+    compile project(':Foundations')
+    compile project(':banner')
+    compile project(':passwordInputLayout')
+
+    //版本随意
+
+    //没有使用特殊Header，可以不加这行
+    compile dependenciesVar.designVersion
+    compile dependenciesVar.supportV13
+    compile dependenciesVar.supportV7
+    compile 'com.android.support:multidex:1.0.1'
+
+    //    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+
+    //    compile 'cn.bingoogolapple:bga-banner:2.1.6@aar'
+
+    //    compile 'com.youth.banner:banner:1.4.8'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.lester:scolltextview:1.0.0'
+
+    //    compile 'cn.bingoogolapple:bga-refreshlayout:1.1.7@aar'
+    compile 'com.mcxiaoke.xbus:bus:1.0.2'
+    compile 'com.afollestad.material-dialogs:core:0.8.6.2'
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'com.squareup.okhttp3:okhttp:3.4.1'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0'
+    compile 'com.getui:sdk:2.12.3.0'
+    compile 'com.zhy:base-adapter:3.0.3'
+    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.0.3'
+    compile 'com.scwang.smartrefresh:SmartRefreshHeader:1.0.3'
+    compile 'com.github.chrisbanes:PhotoView:2.0.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'me.codeboy.android:align-text-view:2.3.0'
+    compile 'com.github.bumptech.glide:okhttp3-integration:1.4.0@aar'
+    compile 'com.umeng.sdk:common:latest.integration'
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    compile 'com.tencent.bugly:crashreport:latest.release'
+
+    //其中latest.release指代最新Bugly SDK版本号，也可以指定明确的版本号，例如2.1.9
+    compile 'com.tencent.bugly:nativecrashreport:latest.release'
+
+    //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.0
+    compile 'net.yslibrary.keyboardvisibilityevent:keyboardvisibilityevent:2.1.0'
+    compile 'com.google.zxing:core:3.3.1'
+    testCompile 'junit:junit:4.12'
+}
+//kapt {
+//    generateStubs = true
+//}
+repositories {
+    mavenCentral()
+}
+allprojects {
+    repositories {
+        maven {
+            url "https://jitpack.io"
+
+        }
+    }
+}

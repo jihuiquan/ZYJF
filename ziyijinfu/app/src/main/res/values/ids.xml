@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="max_sure" />
+    <item type="id" name="normal_sure" />
+    <item type="id" name="left_sure" />
+</resources>

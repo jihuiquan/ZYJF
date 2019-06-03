@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="finan.zhimabao.com.apps"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk tools:overrideLibrary="cn.sharesdk.onekeyshare,cn.sharesdk" />
+
+    <!--
+     &lt;!&ndash; 此处com.getui.demo.PushDemoReceiver，需要替换成开发者自己的BroadcastReceiver文件全名 &ndash;&gt;
+     <receiver
+         android:name=".app.GeTuiPushDemoReceiver"
+         android:exported="false">
+         <intent-filter>
+             <action android:name="com.igexin.sdk.action.${GETUI_APP_ID}"/>
+         </intent-filter>
+     </receiver>
+    -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <!-- 蓝牙分享所需的权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="xvtian.gai.receiver" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_OVERLAY_WINDOW" />
+
+    <application
+        android:name="finan.heng.com.apps.base.BaseApplication"
+        android:allowBackup="true"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/logo_shadow_new"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:name">
+        <activity
+            android:name="finan.heng.com.apps.MainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.RiskEvaluationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.EvaluationSuccessActivity"
+            android:screenOrientation="portrait" />
+        <!-- 首页立即投资跳转 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.TouziActivity"
+            android:label="立即投资"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustResize" />
+        <!-- 启动页 -->
+        <activity
+            android:name="finan.heng.com.apps.WelcomeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.ActivityAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="广告MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.CardActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="卡券"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 投资成功 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.TouziSuccessActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="投资成功"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 实名认证 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.ShiMingRenZhengActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="实名认证"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 交易记录 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.JiaoYiJiLuActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="交易记录"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 充值 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.ChongZhiOrTiXianActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="充值"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 充值成功 -->
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.WithDrawResultActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="充值成功"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 投资记录 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.TouZiJiLuActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="投资记录"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 优惠券 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.YouHuiQuanActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="优惠券"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 消息中心 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.MessageCenterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="消息中心"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 公告详情 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.GongGaoDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="公告详情"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 个人设置 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.SettingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="个人设置"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 实名认证通过 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.ShiMingPassActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="实名认证通过"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 我的银行卡 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.MyBankCardActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="我的银行卡"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 银行卡名字列表 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.BankListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="银行卡名字列表"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 修改登录密码 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.ReviseLoginMimaActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="修改登录密码"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 修改交易密码 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.ReviseJiaoYiMimaActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="修改交易密码"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 找回交易密码 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.FindJiaoYiMimaActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="找回交易密码"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 设置交易密码 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.SetJiaoYiMimaActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="设置交易密码"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 规则说明 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.GuizeShuomingActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="规则说明"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 产品详情列表页 -->
+        <activity
+            android:name="finan.heng.com.apps.app.finance.activity.ProductDetailListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="产品详情列表页"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.finance.activity.ProductDetailModifyActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="新手标产品详情"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.finance.activity.InvestRecordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="投资记录"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+        <!-- 关于我们 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.AboutUsActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="关于我们"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 意见反馈 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.YiJianFanKuiActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="关于我们"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 图片展示 -->
+        <activity
+            android:name="finan.heng.com.apps.app.finance.activity.PicShowActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="图片展示"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 照片大图展示 -->
+        <activity
+            android:name="finan.heng.com.apps.app.finance.activity.BigPicActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="照片大图展示"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 邀请好友 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.InviteFriendActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="邀请好友"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 邀请记录 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.InviteHistoryActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="邀请记录"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 登陆 -->
+        <activity
+            android:name="finan.heng.com.apps.LoginActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="登陆"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 验证是否登录 -->
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.CheckPhoneActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="验证是否登录"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 注册 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.RegisterActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="注册"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 忘记密码 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.ForgetPasswordActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="忘记密码"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- h5 -->
+        <activity
+            android:name="finan.heng.com.apps.WebActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="h5"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 首页ScrollText详情 -->
+        <activity
+            android:name="finan.heng.com.apps.app.home.activity.HomeScrollTextActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="首页ScrollText详情"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.UpdateActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/dialog"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.ShowStepViewActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/dialog"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 找回密码2 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.ForgetPasswordActivity2"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="找回密码2"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="finan.heng.com.apps.app.ui.activity.VerifyInfoActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="三步走"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 冲值列表 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.ChongZhiListActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="冲值列表"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 充值成功 -->
+        <activity
+            android:name="finan.heng.com.apps.PayH5Activity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="充值成功"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 充值结果 -->
+        <activity
+            android:name="finan.heng.com.apps.app.my.activity.RechargeResultActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="充值结果"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- ShareSDK的activity -->
+        <!-- <activity -->
+        <!-- android:name="com.mob.tools.MobUIShell" -->
+        <!-- android:configChanges="keyboardHidden|orientation|screenSize" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" -->
+        <!-- android:windowSoftInputMode="stateHidden|adjustResize"></activity> -->
+        <!-- //QQ分享,其中的scheme是“tencent”前缀再开发者应用的加上appId -->
+
+
+        <!-- <activity -->
+        <!-- android:name="cn.sharesdk.tencent.qq.ReceiveActivity" -->
+        <!-- android:launchMode="singleTask" -->
+        <!-- android:noHistory="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <category android:name="android.intent.category.DEFAULT" /> -->
+        <!-- <category android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <data android:scheme="tencent1106459686" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
+        <!-- !&#45;&#45;微信分享回调 &ndash;&gt; -->
+        <!-- <activity -->
+        <!-- android:name="finan.jincaiwa.com.apps.wxapi.WXEntryActivity" -->
+        <!-- android:configChanges="keyboardHidden|orientation|screenSize" -->
+        <!-- android:exported="true" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:theme="@android:style/Theme.Translucent.NoTitleBar" /> -->
+
+        <service
+            android:name="finan.heng.com.apps.DemoPushService"
+            android:exported="true"
+            android:label="PushService"
+            android:process=":pushservice" />
+        <service android:name="finan.heng.com.apps.DemoIntentService" />
+
+        <activity
+            android:name="finan.heng.com.apps.GuideActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="${UMENG_CHANNEL_VALUE}" />
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="5b332392a40fa30ba1000019" />
+
+        <!-- <meta-data -->
+        <!-- android:name="Mob-AppKey" -->
+        <!-- android:value="20fd45ceb4d20" /> -->
+        <!-- <meta-data -->
+        <!-- android:name="Mob-AppSecret" -->
+        <!-- android:value="530525291318eabcd74e35b3c1fde5b9" /> -->
+
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.1" />
+        <meta-data
+            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+            tools:node="remove" />
+
+        <activity android:name="finan.heng.com.apps.WebOpenActivity"></activity>
+    </application>
+
+</manifest>
