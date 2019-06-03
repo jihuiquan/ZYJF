@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\passwordInputLayout\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ecce3a1119a16e597e8d38ae05f1e20d9dbec82a">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\4\classes_7fab22dd6834cd3e9c99d2d2c97a17d209594141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7798c9e4488d7c7f42a7621be1bf83583e4ef706">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\8\ksoap2-android-assembly-3.3.0-jar-with-dependencies_68d0be74bcf138f41aa95e262ca599020af04f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\banner\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c645c679528c57fdeb7526ea3266dd762446f67e">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\4\classes_66000ec0c6d0e90ec46782e44e3fba74fbeebf77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\libs\date4j.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="18889a91ddc87a008bce37fb516047f8aa43331a">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\2\date4j_9976f2506647365999be07c18671c5496d36a5bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\libs\banksdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="efa8590e1c16c79d00d0d9aa136d52470ebf403c">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\2\banksdk_75f1d13d64592ef416635ac0c8bf9a2156c02e96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="77f434b5cd1670042025219dcc40ab934b5a70a5">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\4\classes_1d1a50aca2ea8e7e74f6e205f1489f252a0f502e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49bc2d83ccb0cfe1dbc853e3ba80db0f950ed96d">
+        <dex dex="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\build\intermediates\transforms\dex\al\debug\folders\1000\8\org.apache.http.legacy_b024d93eb1edfcd7ffabe455e4de45ed84d55ed6\classes.dex" />
+    </item>
+
+</items>
