@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:2:1-483:12
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:2:1-484:12
 	package
 		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:4:5-38
 		INJECTED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml
@@ -19,7 +19,6 @@ ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidM
 		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:8:5-77
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\8c8245dc09ba32007ee8e6660e2d4de6c2f0b5a5\output\AndroidManifest.xml:18:5-42
 MERGED from [cn.sharesdk:ShareSDK:3.6.0] C:\Users\Administrator\.android\build-cache\21a6b3d2ba787b4526385476e99a51a5c010fbd3\output\AndroidManifest.xml:7:5-9:41
 MERGED from [cn.sharesdk:OneKeyShare:3.6.0] C:\Users\Administrator\.android\build-cache\5f74c57e2fdd5678e519d19e771d8aa00337fd9e\output\AndroidManifest.xml:7:5-9:41
 MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
@@ -40,6 +39,7 @@ MERGED from [ziyijinfu:passwordInputLayout:unspecified] C:\Users\Administrator\D
 MERGED from [com.android.support:design:26.0.1] C:\Users\Administrator\.android\build-cache\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:transition:26.0.1] C:\Users\Administrator\.android\build-cache\dae6bbe1066535948264a03c5f95dd6225340719\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v13:26.0.1] C:\Users\Administrator\.android\build-cache\84e4e35631b98ccb5ebf66844380a68a67211f15\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\8c8245dc09ba32007ee8e6660e2d4de6c2f0b5a5\output\AndroidManifest.xml:18:5-42
 MERGED from [com.lester:scolltextview:1.0.0] C:\Users\Administrator\.android\build-cache\f6067f9e8b26465c830ff2839cefe25e01468259\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.mcxiaoke.xbus:bus:1.0.2] C:\Users\Administrator\.android\build-cache\aafa0e50a5a8d23d128519cf12dcb757c0d79747\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.afollestad.material-dialogs:core:0.8.6.2] C:\Users\Administrator\.android\build-cache\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\output\AndroidManifest.xml:8:5-11:75
@@ -170,7 +170,7 @@ ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:41:22-77
 application
-ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:43:5-481:19
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:43:5-482:19
 MERGED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:41:5-44:19
 MERGED from [com.github.johnpersano:supertoasts:1.3.4] C:\Users\Administrator\.android\build-cache\d4539c10b6f781f2b95ae2fbdeb53118fc917556\output\AndroidManifest.xml:5:5-19
 MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] C:\Users\Administrator\.android\build-cache\b3368c1da59f74dbd7b8bc5b94f1567d042414fa\output\AndroidManifest.xml:4:5-19
@@ -887,22 +887,22 @@ ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidM
 	android:name
 		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:463:13-40
 meta-data#android.max_aspect
-ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:473:9-475:35
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:474:9-476:35
 	android:value
-		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:475:13-32
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:476:13-32
 	android:name
-		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:474:13-46
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:475:13-46
 meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
-ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:476:9-478:35
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:477:9-479:35
 REJECTED from [com.github.bumptech.glide:okhttp3-integration:1.4.0] C:\Users\Administrator\.android\build-cache\6c70016cf5a328d57b5f16c08df9f2250d53018c\output\AndroidManifest.xml:12:9-14:43
 	tools:node
-		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:478:13-32
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:479:13-32
 	android:name
-		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:477:13-84
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:478:13-84
 activity#finan.heng.com.apps.WebOpenActivity
-ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:480:9-81
+ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:481:9-81
 	android:name
-		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:480:19-69
+		ADDED from C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\AndroidManifest.xml:481:19-69
 uses-permission#android.permission.WRITE_SETTINGS
 ADDED from [ziyijinfu:Foundations:unspecified] C:\Users\Administrator\Documents\ZYJF\ziyijinfu\Foundations\build\intermediates\bundles\default\AndroidManifest.xml:14:5-73
 	android:name
