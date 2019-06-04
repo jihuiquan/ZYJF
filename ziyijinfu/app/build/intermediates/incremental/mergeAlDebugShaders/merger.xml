@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\main\shaders"/></dataSet><dataSet config="al"><source path="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\al\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\debug\shaders"/></dataSet><dataSet config="alDebug"><source path="C:\Users\Administrator\Documents\ZYJF\ziyijinfu\app\src\alDebug\shaders"/></dataSet></merger>
