@@ -132,7 +132,6 @@ public class HomeFragment extends BaseFragment implements View.OnClickListener, 
         Bus.getDefault().register(this);
         EventBus.getDefault().register(this);
         View view = inflater.inflate(R.layout.fragment_home, container, false);
-        setUpToolbar(view);
         loading = finan.heng.com.apps.utils.DialogUtil.getInstance().showLoading(getActivity());
         initView(view);
         return view;
@@ -164,7 +163,6 @@ public class HomeFragment extends BaseFragment implements View.OnClickListener, 
         ll_helpCenter = headerView.findViewById(R.id.ll_helpCenter);
         img_helpCenter = headerView.findViewById(R.id.img_helpCenter);
 
-        view.findViewById(R.id.bottom_line).setVisibility(View.GONE);
         lvProduct = view.findViewById(R.id.lv_product);
 
         mPullToRefreshView = view.findViewById(R.id.refreshview);
@@ -799,7 +797,6 @@ public class HomeFragment extends BaseFragment implements View.OnClickListener, 
             Glide.with(getActivity()).load(homeInfo.getGuideIcon()).into(img_userGuide);
             tv_home_helpcenter.setText(homeInfo.getHelpCenterTitle());
             Glide.with(getActivity()).load(homeInfo.getHelpCenterIcon()).into(img_helpCenter);
-            setBarTitle(homeInfo.getTitle());
             Glide.with(getActivity()).load(homeInfo.getRegisterImageUrl()).into(img_NewUser);
 
             ProductInfo newProduct = homeInfo.newProduct;

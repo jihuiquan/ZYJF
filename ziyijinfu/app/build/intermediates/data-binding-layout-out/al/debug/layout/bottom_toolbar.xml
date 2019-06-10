@@ -23,7 +23,7 @@
             android:src="@drawable/iv_tab_home_focus"/>
 
         <TextView
-            android:textColor="@color/text_Fc291d"
+            android:textColor="@color/red"
             android:id="@+id/main_home_tv"
             android:layout_marginTop="4dp"
             android:layout_width="wrap_content"

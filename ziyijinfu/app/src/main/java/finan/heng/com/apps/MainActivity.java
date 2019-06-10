@@ -177,7 +177,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
                 hideFragment(transaction);
                 clearClick();
                 ivHome.setImageResource(R.drawable.iv_tab_home_focus);
-                tvHome.setTextColor(getResources().getColor(R.color.text_Fc291d));
+                tvHome.setTextColor(getResources().getColor(R.color.red));
                 if (mHomeFragment == null) {
                     mHomeFragment = new HomeFragment();
                     transaction.add(R.id.fragment_ui, mHomeFragment);
@@ -195,7 +195,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
                 hideFragment(transaction);
                 clearClick();
                 ivLicai.setImageResource(R.drawable.iv_tab_finance_focus);
-                tvLicai.setTextColor(getResources().getColor(R.color.text_Fc291d));
+                tvLicai.setTextColor(getResources().getColor(R.color.red));
                 if (mfinanceFragment == null) {
 //                    mfinanceFragment = new AssetFragment(0, "-1");
                     mfinanceFragment = new InvestListTabFragment();
@@ -223,7 +223,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
                     hideFragment(transaction);
                     clearClick();
                     ivMy.setImageResource(R.drawable.iv_tab_account_foucus);
-                    tvMy.setTextColor(getResources().getColor(R.color.text_Fc291d));
+                    tvMy.setTextColor(getResources().getColor(R.color.red));
                     if (mMyFragment == null) {
                         mMyFragment = new MyFragment();
                         transaction.add(R.id.fragment_ui, mMyFragment);
@@ -239,7 +239,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
                 hideFragment(transaction);
                 clearClick();
                 ivMore.setImageResource(R.drawable.iv_tab_more_focus);
-                tvMore.setTextColor(getResources().getColor(R.color.text_Fc291d));
+                tvMore.setTextColor(getResources().getColor(R.color.red));
                 if (moreFragment == null) {
                     moreFragment = new MoreFragment();
                     transaction.add(R.id.fragment_ui, moreFragment);
