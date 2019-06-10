@@ -9,15 +9,15 @@ package com.github.johnpersano.supertoasts;
 public final class R {
     public static final class color {
         public static final int black = 0x7f0e0021;
-        public static final int dark_gray = 0x7f0e0050;
-        public static final int light_gray = 0x7f0e00a9;
-        public static final int white = 0x7f0e014c;
+        public static final int dark_gray = 0x7f0e0054;
+        public static final int light_gray = 0x7f0e00ad;
+        public static final int white = 0x7f0e0150;
     }
     public static final class dimen {
         public static final int buttontoast_hover = 0x7f0a0059;
         public static final int buttontoast_x_padding = 0x7f0a001a;
         public static final int cardtoast_margin = 0x7f0a005a;
-        public static final int toast_hover = 0x7f0a00fe;
+        public static final int toast_hover = 0x7f0a0101;
     }
     public static final class drawable {
         public static final int background_kitkat_black = 0x7f020060;

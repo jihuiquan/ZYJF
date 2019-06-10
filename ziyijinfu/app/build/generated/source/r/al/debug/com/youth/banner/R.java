@@ -21,7 +21,7 @@ public final class R {
         public static final int indicator_margin = 0x7f010112;
         public static final int indicator_width = 0x7f010110;
         public static final int is_auto_play = 0x7f01010b;
-        public static final int rciv_radius = 0x7f010235;
+        public static final int rciv_radius = 0x7f010240;
         public static final int scroll_time = 0x7f01010a;
         public static final int title_background = 0x7f01010c;
         public static final int title_height = 0x7f01010f;
@@ -75,7 +75,7 @@ public final class R {
         public static final int Banner_title_height = 6;
         public static final int Banner_title_textcolor = 4;
         public static final int Banner_title_textsize = 5;
-        public static final int[] RoundCornerImageView = { 0x7f010235 };
+        public static final int[] RoundCornerImageView = { 0x7f010240 };
         public static final int RoundCornerImageView_rciv_radius = 0;
     }
 }

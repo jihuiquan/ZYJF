@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-              android:layout_width="match_parent"
-              android:layout_height="48dp"
-              android:orientation="horizontal"
-                android:background="@color/white"
-    >
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="@color/white"
+    android:orientation="horizontal">
 
     <LinearLayout
         android:id="@+id/main_home_ll"
@@ -17,19 +16,19 @@
 
         <ImageView
             android:id="@+id/main_home_iv"
-            android:layout_marginTop="6dp"
             android:layout_width="20dp"
             android:layout_height="20dp"
-            android:src="@drawable/iv_tab_home_focus"/>
+            android:layout_marginTop="6dp"
+            android:src="@drawable/iv_tab_home_focus" />
 
         <TextView
-            android:textColor="@color/red"
             android:id="@+id/main_home_tv"
-            android:layout_marginTop="4dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
             android:text="首页"
-            android:textSize="10sp"/>
+            android:textColor="@color/red"
+            android:textSize="10sp" />
 
     </LinearLayout>
 
@@ -43,19 +42,19 @@
 
         <ImageView
             android:id="@+id/main_licai_iv"
-            android:layout_marginTop="6dp"
             android:layout_width="20dp"
             android:layout_height="20dp"
-            android:src="@drawable/iv_tab_finance"/>
+            android:layout_marginTop="6dp"
+            android:src="@drawable/iv_tab_finance" />
 
         <TextView
-            android:textColor="@color/gray_969ba5"
             android:id="@+id/main_licai_tv"
-            android:layout_marginTop="4dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="出借"
-            android:textSize="10sp"/>
+            android:layout_marginTop="4dp"
+            android:text="理财"
+            android:textColor="@color/gray_969ba5"
+            android:textSize="10sp" />
 
     </LinearLayout>
 
@@ -69,21 +68,22 @@
 
         <ImageView
             android:id="@+id/main_my_iv"
-            android:layout_marginTop="6dp"
             android:layout_width="20dp"
             android:layout_height="20dp"
-            android:src="@drawable/iv_tab_account"/>
+            android:layout_marginTop="6dp"
+            android:src="@drawable/iv_tab_account" />
 
         <TextView
-            android:textColor="@color/gray_969ba5"
             android:id="@+id/main_my_tv"
-            android:layout_marginTop="4dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
             android:text="我的"
-            android:textSize="10sp"/>
+            android:textColor="@color/gray_969ba5"
+            android:textSize="10sp" />
 
     </LinearLayout>
+
     <LinearLayout
         android:id="@+id/main_mo"
         android:layout_width="0dp"
@@ -94,19 +94,19 @@
 
         <ImageView
             android:id="@+id/iv_tab_more"
-            android:layout_marginTop="6dp"
             android:layout_width="20dp"
             android:layout_height="20dp"
-            android:src="@drawable/iv_tab_more"/>
+            android:layout_marginTop="6dp"
+            android:src="@drawable/iv_tab_more" />
 
         <TextView
-            android:textColor="@color/txt_gray_tab"
             android:id="@+id/tv_tab_more"
-            android:layout_marginTop="4dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
             android:text="更多"
-            android:textSize="10sp"/>
+            android:textColor="@color/txt_gray_tab"
+            android:textSize="10sp" />
 
     </LinearLayout>
 

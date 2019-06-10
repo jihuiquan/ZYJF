@@ -2,8 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:background="#f4f5f8">
+    android:background="#f4f5f8"
+    android:orientation="vertical">
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/root"
@@ -19,9 +19,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="15dp"
-                android:layout_marginRight="15dp"
-                android:background="@drawable/home_bg2"
+                android:background="@color/white"
                 android:orientation="vertical">
 
                 <LinearLayout
@@ -72,17 +70,17 @@
                     <LinearLayout
                         android:id="@+id/first_layout"
                         android:layout_width="0dp"
-                        android:layout_weight="0.3"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
+                        android:layout_weight="0.3"
                         android:orientation="vertical">
 
                         <TextView
                             android:id="@+id/finance_adapter_item_rate"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="89.77"
                             android:lines="1"
+                            android:text="89.77"
                             android:textColor="@color/txt_product_blue"
                             android:textSize="23sp" />
 
@@ -90,15 +88,15 @@
                             android:id="@+id/tv_profitLabel"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </LinearLayout>
 
                     <FrameLayout
                         android:layout_width="0dp"
-                        android:layout_weight="0.3"
                         android:layout_height="match_parent"
                         android:layout_marginLeft="15dp"
                         android:layout_marginTop="2dp"
+                        android:layout_weight="0.3"
                         android:orientation="vertical">
 
                         <LinearLayout
@@ -127,13 +125,13 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="bottom"
-                            android:textSize="12sp"/>
+                            android:textSize="12sp" />
                     </FrameLayout>
 
                     <View
                         android:layout_width="0dp"
-                        android:layout_weight="0.3"
-                        android:layout_height="match_parent"/>
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.3" />
                 </LinearLayout>
             </LinearLayout>
 
@@ -141,13 +139,13 @@
                 android:id="@+id/tv_immediateLoan"
                 android:layout_width="80dp"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="15dp"
                 android:layout_gravity="right"
-                android:gravity="center"
-                android:paddingBottom="3dp"
-                android:paddingTop="3dp"
+                android:layout_marginLeft="15dp"
                 android:layout_marginTop="48dp"
-                android:layout_marginRight="35dp"/>
+                android:layout_marginRight="35dp"
+                android:gravity="center"
+                android:paddingTop="3dp"
+                android:paddingBottom="3dp" />
 
             <ImageView
                 android:id="@+id/iv_status"

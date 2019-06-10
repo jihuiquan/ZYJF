@@ -17,7 +17,7 @@ public final class R {
         public static final int right = 0x7f0f0053;
     }
     public static final class style {
-        public static final int AppBaseTheme = 0x7f0b00c3;
+        public static final int AppBaseTheme = 0x7f0b00c4;
     }
     public static final class styleable {
         public static final int[] AlignTextView = { 0x7f010081 };
