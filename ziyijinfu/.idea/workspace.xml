@@ -11,62 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a788d61b-db9a-4992-8f5d-d062db916063" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/rahatarmanahmed/cpv/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/rahatarmanahmed/cpv/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/codeboy/android/aligntextview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/codeboy/android/aligntextview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/bottom_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/bottom_toolbar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_invest_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_invest_tab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/item_product_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/item_product_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values-v23/values-v23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values-v23/values-v23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/bottom_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/bottom_toolbar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_invest_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_invest_tab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/item_product_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/item_product_home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values-v23/values-v23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values-v23/values-v23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-al-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-al-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/bottom_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/bottom_toolbar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_invest_tab.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_invest_tab.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_product_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_product_home.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,16 +35,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/fragment/MoreFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="110" column="69" lean-forward="true" selection-start-line="110" selection-start-column="69" selection-end-line="110" selection-end-column="69" />
+            <state relative-caret-position="283">
+              <caret line="117" column="91" selection-start-line="117" selection-start-column="91" selection-end-line="117" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passwordInputLayout/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/presenter/MorePresenter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="550">
               <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
               <folding>
                 <element signature="e#493#494#0" expanded="true" />
@@ -121,18 +70,18 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
+            <state relative-caret-position="858">
               <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Foundations/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="382">
               <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
@@ -141,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="961">
-              <caret line="287" column="34" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
+            <state relative-caret-position="78">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -226,7 +175,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,126 +193,48 @@
             <path>
               <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
               <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="passwordInputLayout" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="fragment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="finan" type="462c0819:PsiDirectoryNode" />
-              <item name="wxapi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="gridpasswordview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,7 +334,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26599148" />
@@ -479,7 +351,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.5167038" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.34594882" side_tool="true" weight="0.74610245" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.2806236" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.46659243" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49946696" weight="0.36414254" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -491,14 +363,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_home_tab.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="107" column="4" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/manager/entity/model/ProductModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
@@ -528,12 +392,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/header_home.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="148" column="61" lean-forward="true" selection-start-line="148" selection-start-column="61" selection-end-line="148" selection-end-column="61" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/model/MyUserInfo.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -652,20 +516,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bottom_toolbar.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="50" column="42" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="42" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/home/fragment/HomeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -686,15 +550,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recyclerview.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/home_bg2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/refresh_foot_layout.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -722,12 +586,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_invest_tab.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/home_fragment_activity_tv_bg.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -737,12 +601,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_product_home.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/finance/adapter/RecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -783,50 +647,10 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="961">
-          <caret line="287" column="34" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/cardview-v7/26.0.1/ddc0054cac53b810f4a82be5748702b5da7cb906/cardview-v7-26.0.1-sources.jar!/android/support/v7/widget/CardView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foundations/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/view/IMoreView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/presenter/MorePresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
-          <folding>
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -848,10 +672,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/presenter/MorePresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/view/IMoreView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passwordInputLayout/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundations/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/fragment/MoreFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="110" column="69" lean-forward="true" selection-start-line="110" selection-start-column="69" selection-end-line="110" selection-end-column="69" />
+        <state relative-caret-position="283">
+          <caret line="117" column="91" selection-start-line="117" selection-start-column="91" selection-end-line="117" selection-end-column="91" />
         </state>
       </provider>
     </entry>

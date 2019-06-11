@@ -1,5 +1,7 @@
 build/
 .idea/
-/ziyijinfu/app/build/
+.gradle/
+*.iml
+workspace.xml
 
 
