@@ -49,7 +49,8 @@ public class MenuItem extends LinearLayout {
         }
         if (type.hasValue(R.styleable.ItemView_leftImage)) {
             leftGroup.setVisibility(VISIBLE);
-            leftImage.setBackgroundResource(type.getResourceId(R.styleable.ItemView_leftImage, 0));
+            leftImage.setScaleType(ImageView.ScaleType.CENTER);
+            leftImage.setImageResource(type.getResourceId(R.styleable.ItemView_leftImage, 0));
 
         }
         rightImage.setBackgroundResource(type.getResourceId(R.styleable.ItemView_rightImage, 0));

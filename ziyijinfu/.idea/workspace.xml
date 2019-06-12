@@ -11,11 +11,83 @@
   <component name="ChangeListManager">
     <list default="true" id="a788d61b-db9a-4992-8f5d-d062db916063" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foundations/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foundations/build/outputs/aar/Foundations-release.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations/build/outputs/aar/Foundations-release.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/onekeyshare/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/onekeyshare/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/igexin/sdk/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/igexin/sdk/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/layout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_notice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_safe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_wechat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/activity_checkphone.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_notice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_safe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_wechat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/activity_checkphone.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_help.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_notice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_safe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_wechat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_login_title_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordInputLayout/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/passwordInputLayout/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passwordInputLayout/build/outputs/aar/passwordInputLayout-release.aar" beforeDir="false" afterPath="$PROJECT_DIR$/passwordInputLayout/build/outputs/aar/passwordInputLayout-release.aar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,29 +110,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/fragment/MoreFragment.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml">
+          <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+            <state relative-caret-position="413">
+              <caret line="52" column="57" lean-forward="true" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+            <state relative-caret-position="132">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1056">
-              <caret line="286" column="52" selection-start-line="286" selection-start-column="52" selection-end-line="286" selection-end-column="52" />
+            <state relative-caret-position="101">
+              <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -69,14 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>showAdInfo</find>
-      <find>ll_platformIntro</find>
-      <find>rl_toolbar</find>
-      <find>top_bar</find>
-      <find>rl_content</find>
-      <find>toolbar</find>
-      <find>back_btn</find>
-      <find>iv_bar_back</find>
       <find>tv_guizeshuoming</find>
       <find>bottom_line</find>
       <find>title_text</find>
@@ -96,6 +169,17 @@
       <find>ll_activity_label</find>
       <find>iv_phone</find>
       <find>showCompanyImg</find>
+      <find>menu_wechat</find>
+      <find>menu_mark</find>
+      <find>menu_notice</find>
+      <find>leftImage</find>
+      <find>登录</find>
+      <find>main</find>
+      <find>mMyFragment</find>
+      <find>line</find>
+      <find>input_phone</find>
+      <find>et_phone</find>
+      <find>imgAble</find>
     </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
@@ -120,21 +204,29 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/utils/GlideImageLoader.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/header_home.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/bottom_toolbar.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_invest_tab.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/home_fragment_activity_tv_bg.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/finance/adapter/RecyclerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_product_home.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/fragment/MoreFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java" />
+        <option value="$PROJECT_DIR$/Foundations/src/main/java/com/dynamic/foundations/common/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="461" />
-    <option name="y" value="747" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="27" />
+    <option name="y" value="80" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -145,7 +237,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -159,10 +250,103 @@
               <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="finan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="finan" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="finan" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="finan" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="finance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="finan" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ziyijinfu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ziyijinfu" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="values" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,7 +445,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="461" y="747" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2489339" />
@@ -277,154 +462,20 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.5167038" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.4099147" side_tool="true" visible="true" weight="0.31403118" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.07942431" side_tool="true" visible="true" weight="0.1726058" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.59008527" visible="true" weight="0.31403118" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.9205757" visible="true" weight="0.1726058" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49946696" weight="0.36414254" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.19989339" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.08795309" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/manager/entity/model/ProductModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
-          <folding>
-            <element signature="e#3266#3267#0" expanded="true" />
-            <element signature="e#3297#3298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/shadow_bg.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/.android/build-cache/d4539c10b6f781f2b95ae2fbdeb53118fc917556/output/res/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Foundations/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/header_home.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="148" column="61" lean-forward="true" selection-start-line="148" selection-start-column="61" selection-end-line="148" selection-end-column="61" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/model/MyUserInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/BusinessEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/HttpErrorInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/HttpRequestHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/HttpRequestHelper2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/KeyHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/InterfaceService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2838">
-          <caret line="85" column="17" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/RetrofitClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/ResponseData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/http/RequestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/base/LazyFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/base/ConstantValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/base/BaseListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/base/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/base/BaseApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -443,21 +494,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/bottom_toolbar.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="50" column="42" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="42" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/home/fragment/HomeFragment.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -478,26 +521,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_recyclerview.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/home_bg2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/refresh_foot_layout.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding>
-            <element signature="e#3737#3738#0" expanded="true" />
-            <element signature="e#3764#3765#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/finance/fragment/InvestListTabFragment.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -514,12 +546,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_invest_tab.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/home_fragment_activity_tv_bg.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -529,12 +561,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_product_home.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
         </state>
       </provider>
-      <provider editor-type-id="android-designer2" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/finance/adapter/RecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -550,29 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/local.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/cardview-v7/26.0.1/ddc0054cac53b810f4a82be5748702b5da7cb906/cardview-v7-26.0.1-sources.jar!/android/support/v7/widget/CardView.java">
@@ -628,27 +638,209 @@
     <entry file="file://$PROJECT_DIR$/passwordInputLayout/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-26/android.jar!/android/content/Context.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="286" column="52" selection-start-line="286" selection-start-column="52" selection-end-line="286" selection-end-column="52" />
+        <state relative-caret-position="227">
+          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_notice.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/model/CompanyInfoResponseDeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
+          <folding>
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/fragment/MoreFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        <state relative-caret-position="341">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        <state relative-caret-position="210">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/home/activity/ReviseLoginMimaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/my/activity/RegisterActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="54" column="51" lean-forward="true" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="228" column="70" selection-start-line="228" selection-start-column="70" selection-end-line="228" selection-end-column="70" />
+          <folding>
+            <element signature="e#3737#3738#0" expanded="true" />
+            <element signature="e#3764#3765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_unclick_a.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="86" column="59" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundations/src/main/java/com/ab/util/AbSharedUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foundations/src/main/java/com/dynamic/foundations/common/utils/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="352" column="68" selection-start-line="352" selection-start-column="68" selection-end-line="352" selection-end-column="68" />
+          <folding>
+            <element signature="e#6564#6565#0" expanded="true" />
+            <element signature="e#6612#6613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+          <folding>
+            <element signature="e#7379#7380#0" expanded="true" />
+            <element signature="e#7403#7404#0" expanded="true" />
+            <element signature="e#7456#7457#0" expanded="true" />
+            <element signature="e#7480#7481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/login_ed_phone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="52" column="57" lean-forward="true" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

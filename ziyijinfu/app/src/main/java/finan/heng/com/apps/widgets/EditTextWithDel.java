@@ -2,8 +2,11 @@ package finan.heng.com.apps.widgets;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.res.TypedArray;
+import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
+import android.support.design.widget.TextInputEditText;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
@@ -17,11 +20,12 @@ import finan.zhimabao.com.apps.R;
  */
 
 @SuppressLint("AppCompatCustomView")
-public class EditTextWithDel extends EditText {
+public class EditTextWithDel extends TextInputEditText {
     private final static String TAG = "EditTextWithDel";
     private Drawable imgInable;
     private Drawable imgAble;
     private Context mContext;
+    private Drawable mLeftDrawable;
 
     public EditTextWithDel(Context context) {
         super(context);
@@ -32,11 +36,26 @@ public class EditTextWithDel extends EditText {
     public EditTextWithDel(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs, defStyle);
         mContext = context;
+        TypedArray typedArray = mContext.obtainStyledAttributes(attrs, R.styleable.EditTextWithDel);
+        if (null != typedArray) {
+            int resourceId = typedArray.getResourceId(R.styleable.EditTextWithDel_leftImageSrc, -1);
+            mLeftDrawable = mContext.getResources().getDrawable(
+                    resourceId);
+            typedArray.recycle();
+        }
         init();
     }
+
     public EditTextWithDel(Context context, AttributeSet attrs) {
         super(context, attrs);
         mContext = context;
+        TypedArray typedArray = mContext.obtainStyledAttributes(attrs, R.styleable.EditTextWithDel);
+        if (null != typedArray) {
+            int resourceId = typedArray.getResourceId(R.styleable.EditTextWithDel_leftImageSrc, -1);
+            mLeftDrawable = mContext.getResources().getDrawable(
+                    resourceId);
+            typedArray.recycle();
+        }
         init();
     }
 
@@ -65,9 +84,9 @@ public class EditTextWithDel extends EditText {
     // 设置删除图片
     private void setDrawable() {
         if (length() < 1) {
-            setCompoundDrawablesWithIntrinsicBounds(null, null, null, null);
+            setCompoundDrawablesWithIntrinsicBounds(mLeftDrawable, null, null, null);
         } else {
-            setCompoundDrawablesWithIntrinsicBounds(null, null, imgAble, null);
+            setCompoundDrawablesWithIntrinsicBounds(mLeftDrawable, null, imgAble, null);
         }
     }
 

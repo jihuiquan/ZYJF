@@ -49,8 +49,6 @@ import rx.functions.Action1;
 public class CheckPhoneActivity extends BaseActivity {
     private Button btn_commit;
     private EditTextWithDel et_phone;
-    private TextInputLayout input_phone;
-    private View line;
 
 
 
@@ -68,8 +66,6 @@ public class CheckPhoneActivity extends BaseActivity {
 
         et_phone = findViewById(R.id.et_phone);
         btn_commit = findViewById(R.id.btn_commit);
-        input_phone = findViewById(R.id.input_phone);
-        line = findViewById(R.id.line);
 //        iv_close_card = findViewById(R.id.iv_close_card);
 //        iv_close_card.setOnClickListener(new View.OnClickListener() {
 //            @Override
@@ -82,9 +78,6 @@ public class CheckPhoneActivity extends BaseActivity {
             et_phone.setText(AbSharedUtil.getString(CheckPhoneActivity.this, "login_mobile"));
             btn_commit.setEnabled(true);
             btn_commit.setBackgroundResource(R.drawable.btn_click);
-            input_phone.setHintEnabled(true);
-            input_phone.setHint("请输入您的手机号码");
-            line.setBackgroundResource(R.color.white);
 //            iv_close_card.setVisibility(View.VISIBLE);
         }
         et_phone.addTextChangedListener(new TextWatcher() {
@@ -101,16 +94,6 @@ public class CheckPhoneActivity extends BaseActivity {
                 } else {
                     btn_commit.setEnabled(false);
                     btn_commit.setBackgroundResource(R.drawable.btn_unclick_a);
-                }
-                if (et_phone.getText().toString().trim().length() >=1){
-                    input_phone.setHintEnabled(true);
-                    input_phone.setHint("请输入您的手机号码");
-                    line.setBackgroundResource(R.color.white);
-//                    iv_close_card.setVisibility(View.VISIBLE);
-                } else {
-                    input_phone.setHintEnabled(false);
-                    line.setBackgroundResource(R.color.bg_line);
-//                    iv_close_card.setVisibility(View.GONE);
                 }
             }
 

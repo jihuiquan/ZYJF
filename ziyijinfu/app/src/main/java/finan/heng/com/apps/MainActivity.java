@@ -248,6 +248,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
                 }
                 transaction.commitAllowingStateLoss();
                 break;
+            default:
+                break;
         }
 
     }
