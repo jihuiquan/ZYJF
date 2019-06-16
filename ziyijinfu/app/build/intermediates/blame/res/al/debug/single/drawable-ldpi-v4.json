@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-ldpi-v4\\md_nav_back.png",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable-ldpi-v4\\md_nav_back.png"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-ldpi-v4\\push.png",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-ldpi\\push.png"
     },
@@ -16,11 +12,7 @@
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-ldpi\\push_small.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-ldpi-v4\\push_small.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-ldpi\\push_small.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-ldpi-v4\\push.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-ldpi\\push.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-ldpi-v4\\ic_launcher_background.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\generated\\res\\pngs\\al\\debug\\drawable-ldpi\\ic_launcher_background.png"
     }
 ]

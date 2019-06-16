@@ -1,9 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
@@ -12,15 +8,11 @@
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\md_nav_back.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable-anydpi-v21\\md_nav_back.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\generated\\res\\pngs\\al\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     }
 ]

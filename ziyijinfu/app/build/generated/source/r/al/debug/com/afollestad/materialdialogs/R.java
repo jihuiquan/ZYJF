@@ -572,20 +572,20 @@ public final class R {
         public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f02004f;
         public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020050;
         public static final int abc_textfield_search_material = 0x7f020051;
-        public static final int md_btn_selected = 0x7f02013d;
-        public static final int md_btn_selected_dark = 0x7f02013e;
-        public static final int md_btn_selector = 0x7f02013f;
-        public static final int md_btn_selector_dark = 0x7f020140;
-        public static final int md_btn_selector_ripple = 0x7f020141;
-        public static final int md_btn_selector_ripple_dark = 0x7f020142;
-        public static final int md_btn_shape = 0x7f020143;
-        public static final int md_item_selected = 0x7f020144;
-        public static final int md_item_selected_dark = 0x7f020145;
-        public static final int md_nav_back = 0x7f020146;
-        public static final int md_selector = 0x7f020147;
-        public static final int md_selector_dark = 0x7f020148;
-        public static final int md_transparent = 0x7f020149;
-        public static final int notification_template_icon_bg = 0x7f02021a;
+        public static final int md_btn_selected = 0x7f02013e;
+        public static final int md_btn_selected_dark = 0x7f02013f;
+        public static final int md_btn_selector = 0x7f020140;
+        public static final int md_btn_selector_dark = 0x7f020141;
+        public static final int md_btn_selector_ripple = 0x7f020142;
+        public static final int md_btn_selector_ripple_dark = 0x7f020143;
+        public static final int md_btn_shape = 0x7f020144;
+        public static final int md_item_selected = 0x7f020145;
+        public static final int md_item_selected_dark = 0x7f020146;
+        public static final int md_nav_back = 0x7f020147;
+        public static final int md_selector = 0x7f020148;
+        public static final int md_selector_dark = 0x7f020149;
+        public static final int md_transparent = 0x7f02014a;
+        public static final int notification_template_icon_bg = 0x7f02021b;
     }
     public static final class id {
         public static final int action0 = 0x7f0f03a3;

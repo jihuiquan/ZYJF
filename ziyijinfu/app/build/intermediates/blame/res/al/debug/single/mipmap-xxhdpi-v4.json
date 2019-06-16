@@ -1,35 +1,15 @@
 [
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\icon.png",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\select.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\select.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\logo_shadow_new.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_shadow_new.png"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\select.png",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\select.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\icon.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\mipmap-xxhdpi-v4\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_cancel.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_cancel.png"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_cancel.png",
@@ -40,11 +20,15 @@
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_my_user_unlogin.png"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\logo_shadow_new.png",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_shadow_new.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_my_user_unlogin.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_my_user_unlogin.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxhdpi-v4\\ic_launcher_foreground.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     }
 ]

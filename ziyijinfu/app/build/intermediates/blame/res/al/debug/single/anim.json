@@ -12,12 +12,16 @@
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_down_out.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\alert_dialog_start.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\alert_dialog_start.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_top.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_in_top.xml",
@@ -28,8 +32,8 @@
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\fragment_dialog_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_right_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_right_out.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_bottom_sheet_slide_out.xml",
@@ -38,122 +42,6 @@
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\alert_dialog_close.xml",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\alert_dialog_close.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_up_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_up_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\dialog_enter.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\dialog_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_in_from_top.xml",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_up_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_up_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\dialog_enter.xml",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\dialog_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_down_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_down_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\popup_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\anim\\popup_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\decelerate_cubic.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\anim\\decelerate_cubic.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\decelerate_cubic.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\anim\\decelerate_cubic.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_in_from_top.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_down_in.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_down_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\alert_dialog_start.xml",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\alert_dialog_start.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_right_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_right_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_top.xml",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\anim\\popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\tooltip_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\tooltip_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_top.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_snackbar_in.xml",
@@ -166,10 +54,6 @@
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\dialog_exit.xml",
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\dialog_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\popup_exit.xml",
@@ -188,48 +72,28 @@
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_right_out.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\dialog_exit.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_in_from_top.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\dialog_enter.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\dialog_enter.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\tooltip_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\tooltip_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\alert_dialog_start.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\alert_dialog_start.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_left_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_left_out.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\tooltip_enter.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\tooltip_enter.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\alert_dialog_close.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\alert_dialog_close.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\popup_enter.xml",
@@ -244,40 +108,36 @@
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_up_in.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\fragment_dialog_enter.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\fragment_dialog_enter.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_left_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_left_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\anim\\decelerate_cubic.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_left_in.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_left_in.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\fragment_dialog_exit.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\anim\\fragment_dialog_exit.xml"
-    },
-    {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_right_in.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_down_in.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_down_in.xml"
     },
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\fragment_dialog_exit.xml",
@@ -286,13 +146,5 @@
     {
         "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_left_out.xml",
         "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\4feaaee2ce4a16675d2016df32772f55daa5a2ca\\output\\res\\anim\\push_left_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\push_down_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\f6067f9e8b26465c830ff2839cefe25e01468259\\output\\res\\anim\\push_down_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\anim\\abc_slide_out_bottom.xml"
     }
 ]
