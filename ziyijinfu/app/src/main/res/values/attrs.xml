@@ -49,21 +49,21 @@
     </declare-styleable>
 
     <declare-styleable name="ItemView">
-        <attr name="leftImage" format="reference"/>
-        <attr name="rightImage" format="reference"/>
-        <attr name="centerText" format="string"/>
-        <attr name="centerMidText" format="string"/>
-        <attr name="centerRightText" format="string"/>
+        <attr name="leftImage" format="reference" />
+        <attr name="rightImage" format="reference" />
+        <attr name="centerText" format="string" />
+        <attr name="centerMidText" format="string" />
+        <attr name="centerRightText" format="string" />
         <attr name="position" format="enum">
-            <enum name="top" value="0"/>
-            <enum name="bottom" value="1"/>
+            <enum name="top" value="0" />
+            <enum name="bottom" value="1" />
             <enum name="mid" value="3" />
         </attr>
         <attr name="bottomLine" format="enum">
-            <enum name="visible" value="0"/>
-            <enum name="gone" value="1"/>
+            <enum name="visible" value="0" />
+            <enum name="gone" value="1" />
         </attr>
-        <attr name="rightTextColor" format="color"/>
+        <attr name="rightTextColor" format="color" />
     </declare-styleable>
     <declare-styleable name="CircleProgressView">
         <attr name="arcWidth" format="dimension" />
@@ -78,40 +78,44 @@
     </declare-styleable>
 
     <declare-styleable name="HeaderView">
-        <attr name="leftIcon" format="reference"/>
-        <attr name="rightIcon" format="reference"/>
-        <attr name="rightText" format="string"/>
-        <attr name="midText" format="string"/>
-        <attr name="bottomText" format="string"/>
-        <attr name="midTextSize" format="dimension"/>
-        <attr name="midTextColor" format="color"/>
-        <attr name="backGround" format="color"/>
+        <attr name="leftIcon" format="reference" />
+        <attr name="rightIcon" format="reference" />
+        <attr name="rightText" format="string" />
+        <attr name="midText" format="string" />
+        <attr name="bottomText" format="string" />
+        <attr name="midTextSize" format="dimension" />
+        <attr name="midTextColor" format="color" />
+        <attr name="backGround" format="color" />
     </declare-styleable>
 
     <declare-styleable name="NoticeView">
         <!-- 图标 -->
-        <attr name="nvIcon" format="reference"/>
+        <attr name="nvIcon" format="reference" />
         <!-- 图标与内容的间隙 -->
-        <attr name="nvIconPadding" format="dimension"/>
+        <attr name="nvIconPadding" format="dimension" />
         <!-- 图标颜色 -->
-        <attr name="nvIconTint" format="color"/>
+        <attr name="nvIconTint" format="color" />
 
         <!-- 文本尺寸 -->
-        <attr name="nvTextSize" format="dimension"/>
+        <attr name="nvTextSize" format="dimension" />
         <!-- 文本颜色 -->
-        <attr name="nvTextColor" format="color"/>
+        <attr name="nvTextColor" format="color" />
         <!-- 文本最大行数 -->
-        <attr name="nvTextMaxLines" format="integer"/>
+        <attr name="nvTextMaxLines" format="integer" />
         <!-- 文本对齐方式 -->
         <attr name="nvTextGravity" format="integer">
-            <enum name="left" value="3"/>
-            <enum name="center" value="17"/>
-            <enum name="right" value="5"/>
+            <enum name="left" value="3" />
+            <enum name="center" value="17" />
+            <enum name="right" value="5" />
         </attr>
 
         <!-- 切换动画间隔时间，毫秒 -->
-        <attr name="nvInterval" format="integer"/>
+        <attr name="nvInterval" format="integer" />
         <!-- 切换动画持续时间，毫秒 -->
-        <attr name="nvDuration" format="integer"/>
+        <attr name="nvDuration" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="EditTextWithDel">
+        <attr name="leftImageSrc" format="reference" />
     </declare-styleable>
 </resources>

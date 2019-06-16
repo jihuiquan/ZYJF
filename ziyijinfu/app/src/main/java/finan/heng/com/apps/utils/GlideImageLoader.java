@@ -18,7 +18,7 @@ public class GlideImageLoader extends com.youth.banner.loader.ImageLoader {
         //具体方法内容自己去选择，次方法是为了减少banner过多的依赖第三方包，所以将这个权限开放给使用者去选择
         Glide.with(context.getApplicationContext())
                 .load(path)
-                .transform(new GlideRoundTransform(context,10))
+                .transform(new GlideRoundTransform(context,0))
 //                .placeholder(R.mipmap.hhm)
                 .into(imageView);
     }

@@ -3,15 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
-    <include
-        android:id="@+id/title_layout"
-        layout="@layout/toolbar" />
-
     <com.scwang.smartrefresh.layout.SmartRefreshLayout
         android:id="@+id/refreshview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/title_layout"
         android:background="@color/bg_theme">
 
         <com.scwang.smartrefresh.layout.header.ClassicsHeader

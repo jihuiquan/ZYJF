@@ -36,25 +36,25 @@ public final class R {
         public static final int smssdk_country_group_z = 0x7f090019;
     }
     public static final class drawable {
-        public static final int ssdk_auth_title_back = 0x7f0201bc;
-        public static final int ssdk_back_arr = 0x7f0201bd;
-        public static final int ssdk_checkboxed = 0x7f0201be;
-        public static final int ssdk_country_back_arrow = 0x7f0201bf;
-        public static final int ssdk_country_cl_divider = 0x7f0201c0;
-        public static final int ssdk_country_clear_search = 0x7f0201c1;
-        public static final int ssdk_country_search_icon = 0x7f0201c2;
-        public static final int ssdk_country_sharesdk_icon = 0x7f0201c3;
-        public static final int ssdk_exception_icon = 0x7f0201c4;
-        public static final int ssdk_identify_icon = 0x7f0201c5;
-        public static final int ssdk_input_bg_focus = 0x7f0201c6;
-        public static final int ssdk_left_back = 0x7f0201c7;
-        public static final int ssdk_load_dot_white = 0x7f0201c8;
-        public static final int ssdk_loading = 0x7f0201c9;
-        public static final int ssdk_logo = 0x7f0201ca;
-        public static final int ssdk_mobile_logo = 0x7f0201cb;
-        public static final int ssdk_title_div = 0x7f020202;
-        public static final int ssdk_weibo_common_shadow_top = 0x7f020203;
-        public static final int ssdk_weibo_empty_failed = 0x7f020204;
+        public static final int ssdk_auth_title_back = 0x7f0201bd;
+        public static final int ssdk_back_arr = 0x7f0201be;
+        public static final int ssdk_checkboxed = 0x7f0201bf;
+        public static final int ssdk_country_back_arrow = 0x7f0201c0;
+        public static final int ssdk_country_cl_divider = 0x7f0201c1;
+        public static final int ssdk_country_clear_search = 0x7f0201c2;
+        public static final int ssdk_country_search_icon = 0x7f0201c3;
+        public static final int ssdk_country_sharesdk_icon = 0x7f0201c4;
+        public static final int ssdk_exception_icon = 0x7f0201c5;
+        public static final int ssdk_identify_icon = 0x7f0201c6;
+        public static final int ssdk_input_bg_focus = 0x7f0201c7;
+        public static final int ssdk_left_back = 0x7f0201c8;
+        public static final int ssdk_load_dot_white = 0x7f0201c9;
+        public static final int ssdk_loading = 0x7f0201ca;
+        public static final int ssdk_logo = 0x7f0201cb;
+        public static final int ssdk_mobile_logo = 0x7f0201cc;
+        public static final int ssdk_title_div = 0x7f020203;
+        public static final int ssdk_weibo_common_shadow_top = 0x7f020204;
+        public static final int ssdk_weibo_empty_failed = 0x7f020205;
     }
     public static final class id {
         public static final int ssdk_sina_web_title_id = 0x7f0f0020;

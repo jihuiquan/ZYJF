@@ -1604,6 +1604,10 @@
         "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\award_used_up.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_ed_phone.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_ed_phone.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\ic_home_tab_helpcenter.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_tab_helpcenter.png"
     },
