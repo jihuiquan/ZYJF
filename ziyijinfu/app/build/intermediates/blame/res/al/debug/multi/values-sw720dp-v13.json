@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\incremental\\mergeAlDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\incremental\\mergeAlDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
         "map": [
             {

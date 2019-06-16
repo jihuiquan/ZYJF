@@ -1,11 +1,19 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_pressed.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_space_bg_glay_r5.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_space_bg_glay_r5.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_focused_holo.9.png",
@@ -16,20 +24,16 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_button_dark.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_purple.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_purple.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_renzheng.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_renzheng.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\check_box_selector.xml",
@@ -40,56 +44,56 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_enabled.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_circle2.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_circle2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_undobarfocused.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_undobarfocused.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_red_left.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_red_left.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_white_red.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_white_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_gray.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_rect_oval_gray.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_dialog_input_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_dialog_input_bg.xml"
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_gray.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_rect_oval_gray.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\toast_background.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\toast_background.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_circle1.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_circle1.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selector_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_share_qr.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_share_qr.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_circle.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_two.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_home_tab.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_home_tab.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_activity_btn_unclick.xml",
@@ -100,16 +104,16 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_activity_btn_click.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\thumb.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\thumb.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_undobarfocused.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_undobarfocused.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_green.xml",
@@ -120,10 +124,6 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_fragment_activity_tv_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_fragment_activity_tv_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\risk_progress_drawable.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\risk_progress_drawable.xml"
     },
@@ -132,8 +132,724 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\passwordInputLayout\\build\\intermediates\\bundles\\default\\res\\drawable\\rectangle.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\risk_progress_drawable.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\risk_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_btn_home_pro2.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_btn_home_pro2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_three.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_orange.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_blue.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_blue.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_activity_label.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_activity_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\pbar_strle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\pbar_strle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\homefragment_product_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\homefragment_product_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_green.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5f74c57e2fdd5678e519d19e771d8aa00337fd9e\\output\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_red.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_purple.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_bo.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_text_view.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_dialog_red_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_dialog_red_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_back.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_round_rect.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_kitkat_undobutton.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\selector_kitkat_undobutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\homefragment_product_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\homefragment_product_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_tab_ed.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_tab_ed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_pressed_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_button_pressed_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_selected.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_product_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_product_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick_a.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_red_gradient.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_red_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_undobarfocused.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_kitkat_undobarfocused.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_enabled.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_enabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_yellow.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_list_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_getmsg_ed.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_getmsg_ed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_selected.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_white.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\menu_item_selector.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\menu_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_gray.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_real_circle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_real_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_seletor.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_rect_oval_seletor.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_undobarselected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_undobarselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\dialog_risk_evaluation_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\dialog_risk_evaluation_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_getmsg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_getmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\transparent.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_round_rect.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_tab_background.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_black.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_share_qr.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_share_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sel_btn.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\sel_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_back.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\dialog_risk_evaluation_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\dialog_risk_evaluation_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_item_selected_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_item_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_right_bo.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_right_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_activity_btn_unclick.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_activity_btn_unclick.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_blue.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_gray_gradient.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_gray_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selected_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_one.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_white.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_un_ren_zheng.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_un_ren_zheng.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\head_leftview_selector.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\head_leftview_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_radis_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_radis_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\head_leftview_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\head_leftview_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_pressed_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_button_pressed_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_white.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_yellow.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_gray.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_tab_background.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\pay_alert_dialog_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\pay_alert_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_activity_label.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_activity_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_rect_oval_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_item_click.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_item_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_space_bg_glay_r5.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_space_bg_glay_r5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_white.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\guide_transparent.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\guide_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_unselected.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_grey_bo_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_grey_bo_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\progress_circular.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_orange.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\gray_radius.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\gray_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\check_box_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\transparent.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_activity_btn_click.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_activity_btn_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selected.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_btn_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_undobarfocused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_undobarfocused.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_cz.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_cz.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_transparent.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\018f7691c6c6da6705417a8a57061d9217e46615\\output\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_dialog_red_circle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_dialog_red_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\dc9f531c84b0f097b7df4e236056efc7524ed8f1\\output\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_getmsg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_getmsg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_for.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_for.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_main_color_bo.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_main_color_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_kitkat_square_undobutton.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\selector_kitkat_square_undobutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_renzheng.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_renzheng.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_white.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_bo.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_activity_tag_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_activity_tag_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_fragment_activity_tv_bg_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_fragment_activity_tv_bg_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_undobutton.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\selector_undobutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_blue.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_purple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_item_click.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_item_click.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\loading_animation.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\loading_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_dialog_input_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_dialog_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_circle1.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_circle1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\pay_alert_dialog_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\pay_alert_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_cz.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_cz.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\guide_transparent.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\guide_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\thumb.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_fragment_activity_tv_bg.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_fragment_activity_tv_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\radio_button_selector.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\radio_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\menu_item_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\menu_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\radio_button_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\radio_button_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_black.xml",
@@ -148,16 +864,40 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_gray_left.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_pressed_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_product_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_product_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_org_bo2.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_org_bo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_red.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_rect_oval_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_selector_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_selector_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_button.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_blue.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_blue.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick_a.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_undobarselected.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_undobarselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_tran.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_tran.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_tab_nor.xml",
@@ -168,12 +908,24 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_round_gray_white.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\homefragment_product_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\homefragment_product_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\black_background.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\black_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_pressed.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_list_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_black.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_black.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_real_circle.xml",
@@ -188,20 +940,20 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_item_selected_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_transparent.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_transparent.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_tab.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\3dfee9f2575742f76d737e5234070f7b137ea535\\output\\res\\drawable\\background_tab.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5f74c57e2fdd5678e519d19e771d8aa00337fd9e\\output\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_tile_bg.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_black.xml",
@@ -212,16 +964,8 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_ring_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_bo.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_bo.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_text_view.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_text_view.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_activity_tag_bg.xml",
@@ -232,6 +976,10 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_gray.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_round_rect.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click_round_rect.xml"
     },
@@ -240,8 +988,12 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_org_bo2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_back.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_back.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_yellow.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\018f7691c6c6da6705417a8a57061d9217e46615\\output\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_btn_home_pro.xml",
@@ -256,12 +1008,24 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_register_yellow.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_blue.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_blue.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_pressed_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_button_pressed_dark.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circular_text_view.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_yellow_left.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_yellow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_button_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_purple.xml",
@@ -288,24 +1052,20 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_cycle.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_product_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_product_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_yellow_left.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_yellow_left.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_pressed_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_circle_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click_circle_white.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_yellow.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_yellow.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick_a.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick_a.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_background_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_background_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_rect_oval_seletor.xml",
@@ -316,32 +1076,24 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\loading_animation.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_red_gradient.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_red_gradient.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_tab_nor.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_tab_nor.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_yellow.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_yellow.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_pressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\thumb.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_getmsg_ed.xml",
@@ -352,36 +1104,28 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\b3368c1da59f74dbd7b8bc5b94f1567d042414fa\\output\\res\\drawable\\background_tab.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_white.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_white.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\no_banner.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\no_banner.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_selected.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_selected.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5f74c57e2fdd5678e519d19e771d8aa00337fd9e\\output\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_red_gradient.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_red_gradient.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sel_btn.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\sel_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\menu_item_selector.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\menu_item_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_square_undobarfocused.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_square_undobarfocused.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\home_fragment_activity_tv_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_fragment_activity_tv_bg.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_background.xml",
@@ -396,32 +1140,28 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_unselected.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_red_left.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_red_left.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_gray.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_gray.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_red.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_undobarselected.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_undobarselected.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_getmsg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_getmsg.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\dialog_risk_evaluation_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\dialog_risk_evaluation_bg.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_unclick.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_unclick.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_circle2.xml",
@@ -432,16 +1172,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\transparent.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\transparent.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_circle1.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_circle1.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_tab_ed.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_tab_ed.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_round_rect.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_round_rect.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\activity_evaluation_bg.xml",
@@ -452,16 +1188,20 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_main_color_right_bo.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_share_qr.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_share_qr.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_green.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_green.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_kitkat_square_undobutton.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\selector_kitkat_square_undobutton.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_rect_white_stroke_blue.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_rect_white_stroke_blue.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tooltip_frame_dark.xml",
@@ -470,6 +1210,18 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_undobarselected.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_undobarselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_pressed.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\rectangle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\passwordInputLayout\\build\\intermediates\\bundles\\default\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_gray.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_red.xml",
@@ -484,10 +1236,6 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\pbar_strle.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_dialog_red_circle.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_dialog_red_circle.xml"
     },
@@ -496,8 +1244,8 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\home_fragment_activity_tv_bg_white.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selector.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_btn_selector.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_btn_home_pro.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_btn_home_pro.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_top_gray.xml",
@@ -508,8 +1256,16 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_right_bo.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_right_bo.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_round_rect.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click_round_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_circle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_click_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_for.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_for.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_click_circle_white.xml",
@@ -520,164 +1276,148 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\0d30d4cf27524a8fc16f21c8fb6dbe6f759c72b8\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_indicator.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_btn_home_pro2.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_btn_home_pro2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_blue.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_blue.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_round_gray_white.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_round_gray_white.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\indicator_bg_top.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_gray_gradient.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_gray_gradient.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_selector_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_selector_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_square_undobarselected.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_kitkat_square_undobarselected.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_two.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_two.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_pressed_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list_pressed_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_one.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_one.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\95f8fb43a392ec9006d63e4fb205d42c0f1221ee\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_white.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_standard_white.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list_dark.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_white_red.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_white_red.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_background_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_background_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\toast_background.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\toast_background.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_home_tab.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_home_tab.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_un_ren_zheng.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_un_ren_zheng.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\progress_circular.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_kitkat_undobutton.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\selector_kitkat_undobutton.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\white_radius.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38a229f24c0db59e238c5a93793977cc19409d87\\output\\res\\drawable\\white_radius.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\head_leftview_selector.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\head_leftview_selector.xml"
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\white_radius.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\38a229f24c0db59e238c5a93793977cc19409d87\\output\\res\\drawable\\white_radius.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_circle_red.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_circle_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_five_dp.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_five_dp.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selected.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_btn_selected.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\no_banner.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\no_banner.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\black_background.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\black_background.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_undobutton.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\selector_undobutton.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_white.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_white.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_pressed.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\eb053c69a2a3314daf9b93806887092135127d86\\output\\res\\drawable\\sdl_list_pressed.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_submit_gray.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_submit_gray.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_tab_background.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_tab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\pay_alert_dialog_bg.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\pay_alert_dialog_bg.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_green.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_green.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_activity_label.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_activity_label.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\selector_item_click.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\selector_item_click.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_space_bg_glay_r5.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_space_bg_glay_r5.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_bottom_gray_gradient.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_bottom_gray_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_main_color_right_bo.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_main_color_right_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\activity_evaluation_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\activity_evaluation_bg.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -688,52 +1428,80 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_white.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_white.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_item_selected.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_item_selected.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\guide_transparent.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\guide_transparent.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_gray_left.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_gray_left.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_item_selected.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_item_selected.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_right_bo.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_right_bo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_standard_red.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_standard_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_normal.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_list_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_one.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_one.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_orange.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_orange.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_purple.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\detail_dialog_input_bg.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\detail_dialog_input_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selector_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_undobarselected.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_kitkat_undobarselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_selector.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\drawable\\md_selector.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\tab_background_unselected.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\tab_background_unselected.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_grey_bo_white.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_grey_bo_white.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\progress_circular.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\progress_circular.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_un_ren_zheng.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_un_ren_zheng.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\gray_radius.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\banner\\build\\intermediates\\bundles\\default\\res\\drawable\\gray_radius.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_kitkat_square_undobarselected.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\shape_kitkat_square_undobarselected.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_circle_red.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_circle_red.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selected_dark.xml",
@@ -744,63 +1512,99 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_radis_white.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\vpi__tab_selected_focused_holo.9.png",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\Foundations\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_selected_focused_holo.9.png"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_top_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_top_gray.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_button_normal.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_button_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_gray.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\background_kitkat_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\background_kitkat_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\75b06ac44ebd88c5bc4353615fca276bfb6dbf94\\output\\res\\drawable\\background_kitkat_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\sdl_list_pressed_dark.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\b24ca4972db328f6a8174c911380c7c5fad0abbd\\output\\res\\drawable\\sdl_list_pressed_dark.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\drawable\\notification_bg.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_gray.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_gray.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_commit_circle_gray.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_commit_circle_gray.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_undobarfocused.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d4539c10b6f781f2b95ae2fbdeb53118fc917556\\output\\res\\drawable\\shape_undobarfocused.xml"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_cz.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_cz.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_three.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_three.xml"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_white_cycle.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_white_cycle.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\btn_bg_for.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\btn_bg_for.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\shape_ring_red.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\shape_ring_red.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_main_color_bo.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_main_color_bo.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_main_color_bo.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_main_color_bo.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\md_btn_selector.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\drawable\\md_btn_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_tran.xml",
-        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_tran.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_register_yellow.xml",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_register_yellow.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\bg_dialog_red_white.xml",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\bg_dialog_red_white.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\circle_tran.xml",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable\\circle_tran.xml"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     }
 ]

@@ -4,11 +4,23 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\select.png"
     },
     {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxxhdpi-v4\\logo_shadow_new.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_shadow_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxxhdpi-v4\\select.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\select.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxxhdpi-v4\\ic_cancel_tail.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cancel_tail.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxxhdpi-v4\\logo_shadow_new.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_shadow_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\mipmap-xxxhdpi-v4\\ic_cancel_tail.png",
+        "source": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_cancel_tail.png"
     }
 ]
