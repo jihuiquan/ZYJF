@@ -9,86 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a788d61b-db9a-4992-8f5d-d062db916063" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foundations/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Foundations/build/outputs/aar/Foundations-release.aar" beforeDir="false" afterPath="$PROJECT_DIR$/Foundations/build/outputs/aar/Foundations-release.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/compat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreui/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/coreutils/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/design/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/fragment/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/graphics/drawable/animated/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/mediacompat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/transition/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v13/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v4/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/appcompat/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/android/support/v7/recyclerview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/onekeyshare/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/cn/sharesdk/onekeyshare/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/afollestad/materialdialogs/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/astuetz/pagerslidingtabstrip/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/avast/android/dialogs/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/dynamic/foundations/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/facebook/drawee/backends/pipeline/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/github/johnpersano/supertoasts/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/igexin/sdk/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/igexin/sdk/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/jungly/gridpasswordview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/header/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/scwang/smartrefresh/layout/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/youth/banner/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/com/zhy/base/adapter/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/finan/zhimabao/com/apps/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/lester/scolltextview/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/relex/circleindicator/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/me/zhanghai/android/materialprogressbar/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/al/debug/se/emilsjolander/stickylistheaders/R.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/multi/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/al/debug/single/layout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_help.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_notice.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_safe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/menu_wechat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/activity_checkphone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/data-binding-layout-out/al/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeAlDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_help.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_notice.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_safe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/menu_wechat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/drawable-xxhdpi-v4/register_login_title_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/activity_checkphone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/al/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-al-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/al/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/activity/CheckPhoneActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/app/ui/widget/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/finan/heng/com/apps/widgets/EditTextWithDel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_help.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_help.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_notice.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_notice.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_safe.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_safe.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_wechat.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/menu_wechat.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_login_title_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/register_login_title_bg.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_more.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordInputLayout/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/passwordInputLayout/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passwordInputLayout/build/outputs/aar/passwordInputLayout-release.aar" beforeDir="false" afterPath="$PROJECT_DIR$/passwordInputLayout/build/outputs/aar/passwordInputLayout-release.aar" afterDir="false" />
-    </list>
+    <list default="true" id="a788d61b-db9a-4992-8f5d-d062db916063" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,25 +35,16 @@
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="413">
-              <caret line="52" column="57" lean-forward="true" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
+              <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="263">
+              <caret line="164" column="52" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -140,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
+            <state relative-caret-position="140">
               <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
             </state>
           </provider>
@@ -224,9 +136,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="27" />
-    <option name="y" value="80" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-103" />
+    <option name="y" value="166" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -445,7 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-103" y="166" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -462,9 +374,9 @@
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.5167038" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.07942431" side_tool="true" visible="true" weight="0.1726058" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.07942431" side_tool="true" visible="true" weight="0.16369711" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.9205757" visible="true" weight="0.1726058" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" sideWeight="0.9205757" visible="true" weight="0.16369711" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49946696" weight="0.36414254" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -813,25 +725,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="148" column="17" selection-start-line="148" selection-start-column="17" selection-end-line="148" selection-end-column="17" />
+        <state relative-caret-position="413">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
+        <state relative-caret-position="140">
           <caret line="101" column="50" selection-start-line="101" selection-start-column="50" selection-end-line="101" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_checkphone.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="52" column="57" lean-forward="true" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -839,6 +744,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="164" column="52" selection-start-line="164" selection-start-column="52" selection-end-line="164" selection-end-column="52" />
         </state>
       </provider>
     </entry>
