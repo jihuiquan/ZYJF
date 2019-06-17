@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-ldrtl-v17\\md_listitem_singlechoice.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\layout-ldrtl-v17\\md_listitem_singlechoice.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-ldrtl-v17\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\layout-ldrtl-v17\\md_listitem_multichoice.xml"
     }
 ]

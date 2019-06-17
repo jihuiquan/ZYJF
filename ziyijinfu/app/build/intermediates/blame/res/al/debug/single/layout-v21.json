@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\615064561a89bc7bdae0e3ccc077412416ba8524\\output\\res\\layout-v21\\notification_action.xml"
+        "merged": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jihuiquan\\.android\\build-cache\\f7fbd3a35b6fab2d12643356821792af9b9498d7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

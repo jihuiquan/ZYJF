@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\incremental\\mergeAlDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\jihuiquan\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\incremental\\mergeAlDebugResources\\merged.dir\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 326
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 480
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 890
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -92,7 +92,7 @@
                     "endOffset": 1312
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\471a8faaba15c7ba5c046e20ceb215ae87691988\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -113,7 +113,7 @@
                     "endOffset": 1685
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -134,7 +134,7 @@
                     "endOffset": 2117
                 },
                 "from": {
-                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\8fd8e4bec37737e80b675b6ec8d95cfadf840c0e\\output\\res\\values-v14\\values-v14.xml",
+                    "file": "C:\\Users\\jihuiquan\\.android\\build-cache\\428d7011913fd0bebc2097d9674e78eb2aa63736\\output\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

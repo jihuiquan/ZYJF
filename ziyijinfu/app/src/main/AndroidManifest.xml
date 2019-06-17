@@ -45,8 +45,9 @@
         android:allowBackup="true"
         android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
         android:hardwareAccelerated="true"
-        android:icon="@mipmap/logo_shadow_new"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
@@ -462,7 +463,7 @@
         <meta-data
             android:name="UMENG_APPKEY"
             android:value="5cf5deab4ca35752c1000d06" />
-            <!--android:value="5b332392a40fa30ba1000019" /> 项目自带-->
+        <!--android:value="5b332392a40fa30ba1000019" /> 项目自带-->
 
         <!-- <meta-data -->
         <!-- android:name="Mob-AppKey" -->
