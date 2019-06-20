@@ -39,8 +39,10 @@ public class EditTextWithDel extends TextInputEditText {
         TypedArray typedArray = mContext.obtainStyledAttributes(attrs, R.styleable.EditTextWithDel);
         if (null != typedArray) {
             int resourceId = typedArray.getResourceId(R.styleable.EditTextWithDel_leftImageSrc, -1);
-            mLeftDrawable = mContext.getResources().getDrawable(
-                    resourceId);
+            if (resourceId != -1) {
+                mLeftDrawable = mContext.getResources().getDrawable(
+                        resourceId);
+            }
             typedArray.recycle();
         }
         init();
@@ -52,8 +54,10 @@ public class EditTextWithDel extends TextInputEditText {
         TypedArray typedArray = mContext.obtainStyledAttributes(attrs, R.styleable.EditTextWithDel);
         if (null != typedArray) {
             int resourceId = typedArray.getResourceId(R.styleable.EditTextWithDel_leftImageSrc, -1);
-            mLeftDrawable = mContext.getResources().getDrawable(
-                    resourceId);
+            if (resourceId != -1) {
+                mLeftDrawable = mContext.getResources().getDrawable(
+                        resourceId);
+            }
             typedArray.recycle();
         }
         init();

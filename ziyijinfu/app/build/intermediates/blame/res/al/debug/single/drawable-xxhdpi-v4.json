@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\loading_01.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_phonecode.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_phonecode.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\register_login_title_bg.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\register_login_title_bg.png"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\my_trade.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\my_trade.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_pic.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_pic.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
@@ -184,6 +192,10 @@
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\select4.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_phone.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_phone.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\iv_tab_finance.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\iv_tab_finance.png"
     },
@@ -202,6 +214,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\ic_home_tab_platformintr.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home_tab_platformintr.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_password.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_password.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
@@ -512,6 +528,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\login_invitationcode.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\login_invitationcode.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\be_overdue_bg.png",
         "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\be_overdue_bg.png"
     },
@@ -762,6 +782,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\19887d10a3f5905db2d2a7e338a9818bf9e187c0\\output\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\ic_reg_bottom_bg.png",
+        "source": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_reg_bottom_bg.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\Documents\\ZYJF\\ziyijinfu\\app\\build\\intermediates\\res\\merged\\al\\debug\\drawable-xxhdpi-v4\\interest_grey_1.png",

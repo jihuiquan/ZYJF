@@ -108,9 +108,9 @@ public class MoreFragment extends finan.heng.com.apps.base.BaseFragment implemen
             public void onClick(View v) {
                 String url = mHelperCenterUrl != null ? mHelperCenterUrl : "";
                 if (result != null) {
-                    WebActivity.show(url,result.getHelpLabel(),getActivity());
-                }else {
-                    WebActivity.show(url,getString(R.string.menu_help),getActivity());
+                    WebActivity.show(url, result.getHelpLabel(), getActivity());
+                } else {
+                    WebActivity.show(url, getString(R.string.menu_help), getActivity());
                 }
             }
         });

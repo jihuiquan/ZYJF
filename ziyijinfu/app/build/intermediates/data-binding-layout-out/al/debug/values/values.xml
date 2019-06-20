@@ -3100,7 +3100,7 @@ function login(form){
     </style>
     <style name="HintAppearance" parent="TextAppearance.AppCompat">
         <item name="android:textSize">13sp</item>
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/color_999999</item>
     </style>
     <style name="MD_ActionButton">
         <item name="android:layout_width">wrap_content</item>

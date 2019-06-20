@@ -73,7 +73,8 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
     private TextView keYong, ShouYi, zongZiChan;
     private SmartRefreshLayout mPullToRefreshView;
     private TextView mUnreadMessageNum;
-    private MenuItem menu_redpag, trade_record, invite_friend, coupon, card_layout;
+    private MenuItem menu_redpag, invite_friend, coupon, card_layout;
+    private LinearLayout trade_record;
     //    private TextView userAccount;
     private ImageView userPhoto;
     //    private RelativeLayout unLogin;
@@ -86,8 +87,10 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
      */
     private ImageView img_noRealName;
     private TextView tv_keyongyue, tv_totalProfitLabel, tv_balanceLabel, tv_title;
-    private MenuItem invest_record;
+    private LinearLayout invest_record;
     private static final int LOGIN = 0x101;
+    private TextView mInvest_record_text;
+    private TextView mTrade_record_text;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -226,8 +229,10 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
         menu_redpag.setOnClickListener(this);
 
         invest_record = view.findViewById(R.id.invest_record);//投资记录
+        mInvest_record_text = (TextView) view.findViewById(R.id.invest_record_text);
         invest_record.setOnClickListener(this);
         trade_record = view.findViewById(R.id.trade_record);//交易流水
+        mTrade_record_text = (TextView) view.findViewById(R.id.trade_record_text);
         trade_record.setOnClickListener(this);
         view.findViewById(R.id.message_center).setOnClickListener(this);
         invite_friend = view.findViewById(R.id.invite_friend);//邀请好友
@@ -420,15 +425,15 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
     private void updateUi(MyWalletResponse myWalletResponse) {
         MyWalletModel result = myWalletResponse.result;
         this.myWalletModel = result;
-        tv_title.setText(result.getTitle());//标题
+//        tv_title.setText(result.getTitle());//标题
         tv_keyongyue.setText(result.getTotalAssetsLabel());//总资产
         tv_totalProfitLabel.setText(result.getTotalProfitLabel());//累计收益
         tv_balanceLabel.setText(result.getBalanceLabel());//账户余额
 
         mBtnTiXian.setText(result.getWithdrawButtonLabel());//提现
         mBtnChongZhi.setText(result.getRechargeButtonLabel());//充值
-        invest_record.setCenterText(result.getInvestDetailLabel());//投资记录
-        trade_record.setCenterText(result.getTradeDetailLabel());//交易流水
+        mInvest_record_text.setText(result.getInvestDetailLabel());//投资记录
+        mTrade_record_text.setText(result.getTradeDetailLabel());//交易流水
         invite_friend.setCenterText(result.getShareLabel());//邀请好友
         menu_redpag.setCenterText(result.getRedPacketLabel());//投资红包
         coupon.setCenterText(result.getCouponsLabel());//优惠劵
@@ -502,7 +507,7 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
                     if (cacheData1 == null) {
                         startActivity(new Intent(getActivity(), CheckPhoneActivity.class));
                     } else {
-                        TouZiJiLuActivity.show(myWalletModel.getInvestDetailLabel(),getActivity());
+                        TouZiJiLuActivity.show(myWalletModel.getInvestDetailLabel(), getActivity());
                     }
                     break;
                 case R.id.trade_record:
@@ -534,14 +539,14 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
                     if (cacheData1 == null) {
                         startActivity(new Intent(getActivity(), CheckPhoneActivity.class));
                     } else {
-                        YouHuiQuanActivity.show(myWalletModel.getCouponsLabel(),"coupon",getActivity());
+                        YouHuiQuanActivity.show(myWalletModel.getCouponsLabel(), "coupon", getActivity());
                     }
                     break;
                 case R.id.menu_redpag:
                     if (cacheData1 == null) {
                         startActivity(new Intent(getActivity(), CheckPhoneActivity.class));
                     } else {
-                        YouHuiQuanActivity.show(myWalletModel.getRedPacketLabel(),"menu_redpag",getActivity());
+                        YouHuiQuanActivity.show(myWalletModel.getRedPacketLabel(), "menu_redpag", getActivity());
                     }
                     break;
                 case R.id.show_num:
@@ -567,7 +572,7 @@ public class MyFragment extends LazyFragment implements View.OnClickListener {
                     if (cacheData1 == null) {
                         startActivity(new Intent(getActivity(), CheckPhoneActivity.class));
                     } else {
-                        CardActivity.show(myWalletModel.getCDKeyLabel(),getActivity());
+                        CardActivity.show(myWalletModel.getCDKeyLabel(), getActivity());
                     }
                     break;
 

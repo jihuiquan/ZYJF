@@ -4,8 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <include
-        layout="@layout/toolbar_my"/>
+    <include layout="@layout/toolbar_my" />
 
     <com.scwang.smartrefresh.layout.SmartRefreshLayout xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/pullRefresh"
@@ -40,20 +39,17 @@
                         android:id="@+id/rl_top"
                         android:layout_width="match_parent"
                         android:layout_height="185dp"
-                        android:layout_marginLeft="14dp"
-                        android:layout_marginRight="14dp"
-                        android:layout_marginTop="10dp"
-                        android:background="@drawable/my_top_background">
+                        android:background="#FF1F12">
 
                         <Button
                             android:id="@+id/my_login"
                             android:layout_width="115dp"
                             android:layout_height="33dp"
                             android:layout_centerHorizontal="true"
-                            android:layout_marginBottom="20dp"
                             android:layout_marginLeft="15dp"
-                            android:layout_marginRight="15dp"
                             android:layout_marginTop="56dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_marginBottom="20dp"
                             android:background="@drawable/btn_click_circle_white"
                             android:text="登录/注册"
                             android:textColor="#fff"
@@ -66,11 +62,23 @@
                             android:layout_centerHorizontal="true"
                             android:layout_marginTop="47dp">
 
+                            <TextView
+                                android:id="@+id/tv_zongzichan"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:includeFontPadding="false"
+                                android:text="0.00"
+                                android:textColor="#ffffff"
+                                android:textSize="30sp" />
+
                             <LinearLayout
                                 android:id="@+id/tv_zongzichan_layout"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_below="@id/tv_zongzichan"
                                 android:layout_centerHorizontal="true"
+                                android:layout_marginTop="5dp"
                                 android:orientation="horizontal">
 
                                 <TextView
@@ -92,17 +100,6 @@
                                     android:src="@drawable/my_eye_open" />
                             </LinearLayout>
 
-                            <TextView
-                                android:id="@+id/tv_zongzichan"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_below="@id/tv_zongzichan_layout"
-                                android:layout_centerHorizontal="true"
-                                android:layout_marginTop="5dp"
-                                android:includeFontPadding="false"
-                                android:text="0.00"
-                                android:textColor="#ffffff"
-                                android:textSize="30sp" />
                         </RelativeLayout>
 
                         <LinearLayout
@@ -111,31 +108,70 @@
                             android:layout_height="wrap_content"
                             android:layout_above="@+id/my_top_bottom_layout"
                             android:layout_marginBottom="14dp"
-                            android:gravity="center"
                             android:orientation="horizontal">
 
-                            <TextView
-                                android:id="@+id/tv_totalProfitLabel"
-                                android:layout_width="wrap_content"
+                            <LinearLayout
+                                android:layout_width="0dp"
                                 android:layout_height="wrap_content"
-                                android:textColor="#ffffff"
-                                android:textSize="13sp" />
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:orientation="vertical">
 
-                            <TextView
-                                android:id="@+id/tv_shouyi"
-                                android:layout_width="wrap_content"
-                                android:layout_height="wrap_content"
-                                android:layout_marginLeft="10dp"
-                                android:text="0.00"
-                                android:textColor="#ffffff"
-                                android:textSize="14sp" />
+                                <TextView
+                                    android:id="@+id/tv_totalProfitLabel"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="#ffffff"
+                                    android:textSize="13sp" />
 
-                            <TextView
-                                android:layout_width="wrap_content"
+                                <TextView
+                                    android:id="@+id/tv_shouyi"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="0.00"
+                                    android:textColor="#ffffff"
+                                    android:textSize="14sp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="元"
+                                    android:textColor="#ffffff"
+                                    android:textSize="14sp" />
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="0dp"
                                 android:layout_height="wrap_content"
-                                android:text="元"
-                                android:textColor="#ffffff"
-                                android:textSize="14sp" />
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/tv_balanceLabel"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="#ffffff"
+                                    android:textSize="13sp" />
+
+                                <TextView
+                                    android:id="@+id/tv_jine"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="0.00"
+                                    android:textColor="#ffffff"
+                                    android:textSize="14sp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text="元"
+                                    android:textColor="#ffffff"
+                                    android:textSize="14sp" />
+
+                            </LinearLayout>
+
                         </LinearLayout>
 
                         <LinearLayout
@@ -146,113 +182,122 @@
                             android:layout_marginBottom="3dp"
                             android:orientation="horizontal"></LinearLayout>
                     </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/account_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="#FF6259"
+                            android:orientation="horizontal">
+
+                            <TextView
+                                android:id="@+id/fragment_my_chongzhi"
+                                android:layout_width="0dp"
+                                android:layout_height="45dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:text="充值"
+                                android:textColor="@color/white"
+                                android:textSize="15sp" />
+
+                            <TextView
+                                android:id="@+id/fragment_my_tixian"
+                                android:layout_width="0dp"
+                                android:layout_height="45dp"
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:text="提现"
+                                android:textColor="@color/white"
+                                android:textSize="15sp" />
+                        </LinearLayout>
+                    </RelativeLayout>
                 </LinearLayout>
 
                 <RelativeLayout
-                    android:id="@+id/account_layout"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="7dp"
-                    android:background="#fff"
-                    android:paddingBottom="20dp"
-                    android:paddingLeft="15dp"
-                    android:paddingRight="15dp"
-                    android:paddingTop="20dp">
+                    android:background="@color/white">
 
-                    <LinearLayout
-                        android:layout_width="wrap_content"
+                    <ImageView
+                        android:id="@+id/img_noRealName"
+                        android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:gravity="center"
-                        android:orientation="vertical">
-
-                        <TextView
-                            android:id="@+id/tv_balanceLabel"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@id/tv_jine"
-                            android:layout_marginTop="2dp"
-                            android:textColor="#999"
-                            android:textSize="14sp" />
-
-                        <TextView
-                            android:id="@+id/tv_jine"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_centerHorizontal="true"
-                            android:layout_marginTop="5dp"
-                            android:text="0.00"
-                            android:textColor="#333"
-                            android:textSize="15sp" />
-                    </LinearLayout>
-
-                    <TextView
-                        android:id="@+id/fragment_my_chongzhi"
-                        android:layout_width="75dp"
-                        android:layout_height="28dp"
-                        android:layout_alignParentRight="true"
-                        android:layout_centerInParent="true"
-                        android:background="@drawable/btn_click_round_rect"
-                        android:drawablePadding="8dp"
-                        android:gravity="center"
-                        android:paddingLeft="8dp"
-                        android:paddingRight="8dp"
-                        android:text="充值"
-                        android:textColor="@color/white"
-                        android:textSize="15sp" />
-
-                    <TextView
-                        android:id="@+id/fragment_my_tixian"
-                        android:layout_width="75dp"
-                        android:layout_height="28dp"
-                        android:layout_centerVertical="true"
-                        android:layout_marginRight="10dp"
-                        android:layout_toLeftOf="@id/fragment_my_chongzhi"
-                        android:background="@drawable/btn_click_circle"
-                        android:drawablePadding="8dp"
-                        android:gravity="center"
-                        android:textColor="@color/text_Fc291d"
-                        android:textSize="15sp" />
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginTop="14dp"
+                        android:layout_marginRight="14dp"
+                        android:layout_marginBottom="7dp"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitXY"
+                        android:visibility="gone" />
                 </RelativeLayout>
 
-                <ImageView
-                    android:id="@+id/img_noRealName"
+                <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:adjustViewBounds="true"
-                    android:layout_marginBottom="7dp"
-                    android:layout_marginTop="14dp"
-                    android:layout_marginLeft="14dp"
-                    android:layout_marginRight="14dp"
-                    android:scaleType="fitXY"
-                    android:visibility="gone"/>
+                    android:layout_marginTop="12dp"
+                    android:background="@color/white"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:id="@+id/invest_record"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:src="@drawable/my_invest" />
+
+                        <TextView
+                            android:id="@+id/invest_record_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:layout_marginBottom="6dp"
+                            android:text="投资记录" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/trade_record"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="6dp"
+                            android:src="@drawable/my_trade" />
+
+                        <TextView
+                            android:id="@+id/trade_record_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:layout_marginBottom="6dp"
+                            android:text="交易流水" />
+                    </LinearLayout>
+                </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:layout_marginTop="12dp"
                     android:orientation="vertical">
-
-                    <finan.heng.com.apps.app.ui.widget.MenuItem
-                        android:id="@+id/invest_record"
-                        style="@style/View.Horizontal"
-                        android:layout_marginTop="7dp"
-                        app:bottomLine="visible"
-                        app:centerText="@string/my_invest"
-                        app:leftImage="@drawable/my_invest"
-                        app:rightImage="@drawable/arrow_right_gray" />
-
-                    <finan.heng.com.apps.app.ui.widget.MenuItem
-                        android:id="@+id/trade_record"
-                        style="@style/View.Horizontal"
-                        app:bottomLine="visible"
-
-                        app:centerText="@string/my_trade"
-                        app:leftImage="@drawable/my_trade"
-                        app:rightImage="@drawable/arrow_right_gray" />
 
                     <finan.heng.com.apps.app.ui.widget.MenuItem
                         android:id="@+id/invite_friend"
                         style="@style/View.Horizontal"
-                        android:layout_marginTop="7dp"
                         app:bottomLine="visible"
                         app:centerText="@string/my_invite"
                         app:leftImage="@drawable/my_invite"

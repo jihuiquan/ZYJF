@@ -5,22 +5,23 @@
     android:layout_height="match_parent">
 
     <LinearLayout
-        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/bg_white">
+        android:background="@color/bg_white"
+        android:orientation="vertical">
+
         <LinearLayout
             android:id="@+id/ll_content"
-            android:background="@drawable/register_login_title_bg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/register_login_title_bg"
 
             android:orientation="vertical">
 
             <finan.heng.com.apps.app.ui.widget.HeaderView
-                android:layout_marginTop="28dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
                 app:backGround="@color/transparent"
                 app:leftIcon="@drawable/back_white"
                 app:midText="登录"
@@ -32,69 +33,72 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="18dp"
                 android:src="@drawable/ic_account_logo" />
-            <LinearLayout
-                android:orientation="vertical"
-                android:layout_marginLeft="30dp"
-                android:layout_marginRight="30dp"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content">
-                <RelativeLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
-
-                    <android.support.design.widget.TextInputLayout
-                        android:id="@+id/input_pwd"
-                        android:layout_marginTop="70dp"
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        app:hintEnabled="false"
-                        app:hintTextAppearance="@style/HintAppearance">
-
-                        <finan.heng.com.apps.widgets.EditTextWithDel
-                            android:id="@+id/cet_input_pwd"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:background="@null"
-                            android:drawablePadding="12dp"
-                            android:hint="请输入登录密码"
-                            android:paddingBottom="12dp"
-                            android:paddingTop="6dp"
-                            android:singleLine="true"
-                            android:textColor="@color/white"
-                            android:textColorHint="@color/white"
-                            android:textSize="15sp"
-                            android:inputType="textPassword"
-                            />
-
-                    </android.support.design.widget.TextInputLayout>
-                </RelativeLayout>
-
-                <View
-                    android:id="@+id/line"
-                    android:layout_width="match_parent"
-                    android:layout_height="1px"
-                    android:background="@color/white" />
-
-                <TextView
-                    android:id="@+id/tv_forget_pwd"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="right"
-                    android:layout_marginTop="11dp"
-                    android:text="忘记密码？"
-                    android:textColor="@color/white"
-                    android:textSize="14sp" />
-            </LinearLayout>
 
         </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="25dp"
-            android:layout_marginRight="25dp"
-            android:layout_marginTop="50dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
             android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.design.widget.TextInputLayout
+                    android:id="@+id/input_pwd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="70dp"
+                    app:hintEnabled="false"
+                    app:hintTextAppearance="@style/HintAppearance">
+
+                    <finan.heng.com.apps.widgets.EditTextWithDel
+                        android:id="@+id/cet_input_pwd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@null"
+                        android:drawablePadding="12dp"
+                        android:hint="请输入登录密码"
+                        android:inputType="textPassword"
+                        android:paddingTop="6dp"
+                        android:paddingBottom="12dp"
+                        android:singleLine="true"
+                        android:textColor="#999999"
+                        android:textColorHint="#999999"
+                        android:textSize="15sp"
+                        app:leftImageSrc="@drawable/login_password" />
+
+                </android.support.design.widget.TextInputLayout>
+            </RelativeLayout>
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="#999999" />
+
+            <TextView
+                android:id="@+id/tv_forget_pwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginTop="11dp"
+                android:text="忘记密码？"
+                android:textColor="#5AA0FF"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="25dp"
+            android:orientation="vertical">
+
             <Button
                 android:id="@+id/bt_login"
                 android:layout_width="match_parent"
