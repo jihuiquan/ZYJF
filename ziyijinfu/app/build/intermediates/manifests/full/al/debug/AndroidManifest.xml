@@ -32,7 +32,7 @@
   <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
   <uses-permission android:name="getui.permission.GetuiService.finan.ziyijinfu.com.apps"/>
   <permission android:name="getui.permission.GetuiService.finan.ziyijinfu.com.apps" android:protectionLevel="normal"/>
-  <application android:screenOrientation="portrait" android:supportsRtl="true" android:hardwareAccelerated="true" android:label="@string/app_name" android:name="finan.heng.com.apps.base.BaseApplication" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:theme="@style/AppTheme" android:icon="@mipmap/ic_launcher" android:allowBackup="true" android:roundIcon="@mipmap/ic_launcher_round">
+  <application android:screenOrientation="portrait" android:supportsRtl="true" android:hardwareAccelerated="true" android:label="@string/app_name" android:name="finan.heng.com.apps.base.BaseApplication" android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:theme="@style/AppTheme" android:icon="@mipmap/ic_launcher" android:allowBackup="true">
     <activity android:screenOrientation="portrait" android:launchMode="singleTask" android:name="finan.heng.com.apps.MainActivity"/>
     <activity android:name="finan.heng.com.apps.app.home.activity.RiskEvaluationActivity" android:screenOrientation="portrait"/>
     <activity android:name="finan.heng.com.apps.app.home.activity.EvaluationSuccessActivity" android:screenOrientation="portrait"/>

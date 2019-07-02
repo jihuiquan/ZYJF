@@ -2828,18 +2828,17 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int layout_srlBackgroundColor=0x7f010267;
-        /** 填满布局
-         <p>Must be one of the following constant values.</p>
+        /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
 <colgroup align="left" />
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
-<tr><td><code>FixedFront</code></td><td>3</td><td>固定在背后</td></tr>
-<tr><td><code>MatchLayout</code></td><td>4</td><td>固定在前面</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
+<tr><td><code>FixedFront</code></td><td>3</td><td></td></tr>
+<tr><td><code>MatchLayout</code></td><td>4</td><td></td></tr>
 </table>
          */
         public static final int layout_srlSpinnerStyle=0x7f010030;
@@ -4433,16 +4432,15 @@ theme attribute (in the form
 containing a value of this type.
          */
         public static final int srlAccentColor=0x7f01004e;
-        /** 固定在背后
-         <p>Must be one of the following constant values.</p>
+        /** <p>Must be one of the following constant values.</p>
 <table>
 <colgroup align="left" />
 <colgroup align="left" />
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
 </table>
          */
         public static final int srlClassicsSpinnerStyle=0x7f01004f;
@@ -8661,12 +8659,6 @@ containing a value of this type.
         public static final int Animation_AppCompat_DropDownUp=0x7f0b00c1;
         public static final int Animation_AppCompat_Tooltip=0x7f0b00c2;
         public static final int Animation_Design_BottomSheetDialog=0x7f0b00c3;
-        /** 
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
         public static final int AppBaseTheme=0x7f0b00c4;
         public static final int AppTheme=0x7f0b00c5;
         public static final int Base_AlertDialog_AppCompat=0x7f0b00c6;
@@ -8908,13 +8900,9 @@ containing a value of this type.
         public static final int SDL_Space_ButtonsBottom=0x7f0b011b;
         public static final int SDL_TextView=0x7f0b011c;
         public static final int SDL_TextView_ListItem=0x7f0b011d;
-        /**  paddings set in code 
-         */
         public static final int SDL_TextView_Message=0x7f0b011e;
         public static final int SDL_TextView_Message_Progress=0x7f0b011f;
         public static final int SDL_TextView_MultiChoice=0x7f0b0120;
-        /**  paddings set in code 
-         */
         public static final int SDL_TextView_Title=0x7f0b0121;
         public static final int SettingStepBottomText=0x7f0b0122;
         public static final int SettingStepCircleText=0x7f0b0123;
@@ -12080,7 +12068,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #BallPulseFooter_srlAccentColor finan.ziyijinfu.com.apps:srlAccentColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BallPulseFooter_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td>固定在背后</td></tr>
+           <tr><td><code>{@link #BallPulseFooter_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #BallPulseFooter_srlPrimaryColor finan.ziyijinfu.com.apps:srlPrimaryColor}</code></td><td></td></tr>
            </table>
            @see #BallPulseFooter_srlAccentColor
@@ -12106,9 +12094,8 @@ containing a value of this type.
         */
         public static final int BallPulseFooter_srlAccentColor = 0;
         /**
-          <p>
-          @attr description
-          固定在背后
+          <p>This symbol is the offset where the {@link finan.ziyijinfu.com.apps.R.attr#srlClassicsSpinnerStyle}
+          attribute's value can be found in the {@link #BallPulseFooter} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -12118,10 +12105,9 @@ containing a value of this type.
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
 </table>
-          <p>This is a private symbol.
           @attr name finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle
         */
         public static final int BallPulseFooter_srlClassicsSpinnerStyle = 1;
@@ -13635,7 +13621,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ClassicsFooter_srlAccentColor finan.ziyijinfu.com.apps:srlAccentColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ClassicsFooter_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td>固定在背后</td></tr>
+           <tr><td><code>{@link #ClassicsFooter_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsFooter_srlDrawableArrow finan.ziyijinfu.com.apps:srlDrawableArrow}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsFooter_srlDrawableArrowSize finan.ziyijinfu.com.apps:srlDrawableArrowSize}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsFooter_srlDrawableMarginRight finan.ziyijinfu.com.apps:srlDrawableMarginRight}</code></td><td></td></tr>
@@ -13679,9 +13665,8 @@ containing a value of this type.
         */
         public static final int ClassicsFooter_srlAccentColor = 0;
         /**
-          <p>
-          @attr description
-          固定在背后
+          <p>This symbol is the offset where the {@link finan.ziyijinfu.com.apps.R.attr#srlClassicsSpinnerStyle}
+          attribute's value can be found in the {@link #ClassicsFooter} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -13691,10 +13676,9 @@ containing a value of this type.
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
 </table>
-          <p>This is a private symbol.
           @attr name finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle
         */
         public static final int ClassicsFooter_srlClassicsSpinnerStyle = 1;
@@ -13834,7 +13818,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ClassicsHeader_srlAccentColor finan.ziyijinfu.com.apps:srlAccentColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #ClassicsHeader_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td>固定在背后</td></tr>
+           <tr><td><code>{@link #ClassicsHeader_srlClassicsSpinnerStyle finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsHeader_srlDrawableArrow finan.ziyijinfu.com.apps:srlDrawableArrow}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsHeader_srlDrawableArrowSize finan.ziyijinfu.com.apps:srlDrawableArrowSize}</code></td><td></td></tr>
            <tr><td><code>{@link #ClassicsHeader_srlDrawableMarginRight finan.ziyijinfu.com.apps:srlDrawableMarginRight}</code></td><td></td></tr>
@@ -13885,9 +13869,8 @@ containing a value of this type.
         */
         public static final int ClassicsHeader_srlAccentColor = 0;
         /**
-          <p>
-          @attr description
-          固定在背后
+          <p>This symbol is the offset where the {@link finan.ziyijinfu.com.apps.R.attr#srlClassicsSpinnerStyle}
+          attribute's value can be found in the {@link #ClassicsHeader} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -13897,10 +13880,9 @@ containing a value of this type.
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
 </table>
-          <p>This is a private symbol.
           @attr name finan.ziyijinfu.com.apps:srlClassicsSpinnerStyle
         */
         public static final int ClassicsHeader_srlClassicsSpinnerStyle = 1;
@@ -21746,7 +21728,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SmartRefreshLayout_Layout_layout_srlBackgroundColor finan.ziyijinfu.com.apps:layout_srlBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #SmartRefreshLayout_Layout_layout_srlSpinnerStyle finan.ziyijinfu.com.apps:layout_srlSpinnerStyle}</code></td><td>填满布局</td></tr>
+           <tr><td><code>{@link #SmartRefreshLayout_Layout_layout_srlSpinnerStyle finan.ziyijinfu.com.apps:layout_srlSpinnerStyle}</code></td><td></td></tr>
            </table>
            @see #SmartRefreshLayout_Layout_layout_srlBackgroundColor
            @see #SmartRefreshLayout_Layout_layout_srlSpinnerStyle
@@ -21770,9 +21752,8 @@ containing a value of this type.
         */
         public static final int SmartRefreshLayout_Layout_layout_srlBackgroundColor = 1;
         /**
-          <p>
-          @attr description
-          填满布局
+          <p>This symbol is the offset where the {@link finan.ziyijinfu.com.apps.R.attr#layout_srlSpinnerStyle}
+          attribute's value can be found in the {@link #SmartRefreshLayout_Layout} array.
 
 
           <p>Must be one of the following constant values.</p>
@@ -21782,12 +21763,11 @@ containing a value of this type.
 <colgroup align="left" />
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>Translate</code></td><td>0</td><td></td></tr>
-<tr><td><code>Scale</code></td><td>1</td><td>平行移动</td></tr>
-<tr><td><code>FixedBehind</code></td><td>2</td><td>拉伸形变</td></tr>
-<tr><td><code>FixedFront</code></td><td>3</td><td>固定在背后</td></tr>
-<tr><td><code>MatchLayout</code></td><td>4</td><td>固定在前面</td></tr>
+<tr><td><code>Scale</code></td><td>1</td><td></td></tr>
+<tr><td><code>FixedBehind</code></td><td>2</td><td></td></tr>
+<tr><td><code>FixedFront</code></td><td>3</td><td></td></tr>
+<tr><td><code>MatchLayout</code></td><td>4</td><td></td></tr>
 </table>
-          <p>This is a private symbol.
           @attr name finan.ziyijinfu.com.apps:layout_srlSpinnerStyle
         */
         public static final int SmartRefreshLayout_Layout_layout_srlSpinnerStyle = 0;

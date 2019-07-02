@@ -48,7 +48,6 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
     private TextView mTvForget;
     private String phone;
     private TextInputLayout input_pwd;
-    private View line;
 //    private ImageView iv_close_card;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -91,7 +90,6 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         mBtn = (Button) findViewById(R.id.bt_login);
         mTvForget = (TextView) findViewById(R.id.tv_forget_pwd);
         input_pwd = findViewById(R.id.input_pwd);
-        line = findViewById(R.id.line);
 //        iv_close_card = findViewById(R.id.iv_close_card);
     }
 
@@ -181,13 +179,11 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
             mBtn.setEnabled(true);
             mBtn.setBackgroundResource(R.drawable.btn_click);
             input_pwd.setHintEnabled(true);
-            line.setBackgroundResource(R.color.white);
 //            iv_close_card.setVisibility(View.VISIBLE);
         } else {
             mBtn.setEnabled(false);
             mBtn.setBackgroundResource(R.drawable.btn_unclick);
             input_pwd.setHintEnabled(false);
-            line.setBackgroundResource(R.color.bg_line);
 //            iv_close_card.setVisibility(View.GONE);
         }
     }

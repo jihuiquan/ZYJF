@@ -32,7 +32,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
-        android:text="《子壹金服用户注册协议》"
+        android:text="《国汇金服用户协议》"
         android:textColor="@color/color_5aa0ff" />
 
 

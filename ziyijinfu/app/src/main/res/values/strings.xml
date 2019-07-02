@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">子壹金服</string>
+    <string name="app_name">国汇金服</string>
     <string name="my">我的</string>
     <string name="finance">投资</string>
     <string name="home">首页</string>
@@ -7,8 +7,8 @@
     <string name="assets">理财</string>
     <string name="txt_base">txt_base</string>
     <string name="menu_aboutus">关于我们</string>
-    <string name="menu_wechat">微信公众号：子壹金服</string>
-    <string name="menu_mark">给子壹打分</string>
+    <string name="menu_wechat">微信公众号：国汇金服</string>
+    <string name="menu_mark">给国汇打分</string>
     <string name="menu_help">帮助中心</string>
     <string name="menu_notice">公告中心</string>
     <string name="menu_safe">安全保障</string>
@@ -52,6 +52,6 @@
     </integer-array>
     <string name="resetPwd">我司为响应国家金融合规进行三级等保评测，现等保要求用户定期修改密码，需要您进行修改密码。</string>
     <string name="home_btn_text">立即抢购</string>
-    <string name="str_project_hot">子壹企贷</string>
-    <string name="str_project_past">子壹车贷</string>
+    <string name="str_project_hot">国汇企贷</string>
+    <string name="str_project_past">国汇车贷</string>
 </resources>
